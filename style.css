@@ -1,0 +1,16 @@
+/*
+Theme Name: Web Interactivity Example Spring 2019
+Theme URI:
+Author: Efren Vasquez
+Description: Custom theme for Web Interactivity Class
+Version: 0.1
+License: Open
+Text Domain: webinteractivity
+*/
+
+@import url("stylesheets/normalize.css");
+@import url("stylesheets/skeleton.css");
+
+h1 {
+  color: blue;
+}
