@@ -8,5 +8,6 @@ License: Open
 Text Domain: vectorgen
 */
 
+@import url('https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:400,400i');
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
