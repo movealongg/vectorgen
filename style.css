@@ -1,16 +1,12 @@
 /*
-Theme Name: Web Interactivity Example Spring 2019
+Theme Name: VectorGen
 Theme URI:
-Author: Efren Vasquez
-Description: Custom theme for Web Interactivity Class
+Author: Robert Cole, Aliyah Northington, Lauren Rowland
+Description: Custom theme for VectorGen
 Version: 0.1
 License: Open
-Text Domain: webinteractivity
+Text Domain: vectorgen
 */
 
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
-
-h1 {
-  color: red;
-}
