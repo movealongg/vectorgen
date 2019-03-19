@@ -65,8 +65,5 @@ footer a{
 
 header ul li, footer ul li{
   list-style-type: none;
-}
-
-header ul li a, footer ul li a{
-    display: inline;
+  display: inline;
 }
