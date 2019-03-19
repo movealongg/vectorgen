@@ -68,5 +68,5 @@ header ul li, footer ul li{
 }
 
 header ul li a, footer ul li a{
-    display: block;
+    display: inline;
 }
