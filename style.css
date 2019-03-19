@@ -39,6 +39,10 @@ a{
   font-family: 'Open Sans', sans-serif;
 }
 
+a:hover{
+  color: #40B2B1;
+}
+
 header{
   border-bottom: 3px solid #383e4b;
   color: #383E4B;
@@ -47,6 +51,7 @@ header{
 header a{
   color: #383E4B;
   text-decoration: none;
+  display: block;
 }
 
 footer{
@@ -57,6 +62,7 @@ footer{
 footer a{
   color: #f4fafe;
   text-decoration: none;
+  display: block;
 }
 
 header ul li, footer ul li{
