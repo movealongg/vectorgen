@@ -35,6 +35,10 @@ p{
   color: #383E4B;
 }
 
+a{
+  font-family: 'Open Sans', sans-serif;
+}
+
 header{
   border-bottom: 3px #383e4b;
   color: #383E4B;
