@@ -35,7 +35,22 @@ p{
   color: #383E4B;
 }
 
-header, footer{
+header{
+  border-bottom: 3px #383e4b;
+  color: #383E4B;
+}
+
+header a{
+  color: #383E4B;
+  text-decoration: none;
+}
+
+footer{
   background-color: #174A7F;
   color: #F4FAFE;
+}
+
+footer a{
+  color: #f4fafe;
+  text-decoration: none;
 }
