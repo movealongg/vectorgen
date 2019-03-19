@@ -4,10 +4,10 @@
     <meta charset="utf-8" />
     <title><?php bloginfo('name'); ?></title>
 
-    <?php wp_head(); ?>
-
     <!--Link to our style.css file -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
+    
+    <?php wp_head(); ?>
   </head>
 
   <body>
