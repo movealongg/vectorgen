@@ -19,3 +19,18 @@ Teal: #40B2B1
 Charcoal: #383E4B
 White: #F4FAFE
 */
+
+body{
+  background-color: #F4FAFE;
+  color: #383E4B;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Lato', sans-serif;
+  color: #174A7F;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #383E4B;
+}
