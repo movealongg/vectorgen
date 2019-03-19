@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 	<div class="container">
 		<div class="row">
+		<h1>Blog Page</h1>
 		<?php 
 
 			if(have_posts()){
