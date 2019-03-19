@@ -69,6 +69,7 @@ header ul{
 
 header ul li, footer ul li{
   list-style-type: none;
+  vertical-align: middle;
 }
 
 .menu ul li{
