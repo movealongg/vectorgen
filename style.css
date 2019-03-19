@@ -51,7 +51,6 @@ header{
 header a{
   color: #383E4B;
   text-decoration: none;
-  display: block;
 }
 
 footer{
@@ -62,9 +61,9 @@ footer{
 footer a{
   color: #f4fafe;
   text-decoration: none;
-  display: block;
 }
 
 header ul li, footer ul li{
   list-style-type: none;
+  display: block;
 }
