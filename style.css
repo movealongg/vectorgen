@@ -55,6 +55,6 @@ footer a{
   text-decoration: none;
 }
 
-header ul, footer ul{
+header ul li, footer ul li{
   list-style-type: none;
 }
