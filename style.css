@@ -65,5 +65,8 @@ footer a{
 
 header ul li, footer ul li{
   list-style-type: none;
-  display: block;
+}
+
+header ul li a, footer ul li a{
+    display: block;
 }
