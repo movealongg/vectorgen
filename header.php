@@ -16,7 +16,7 @@
       <div class="container">
         <div class="row">
           <div class="five columns">
-            <h1><a href="<?php echo bloginfo('url'); ?>"><?php echo bloginfo('name'); ?></a></h1>
+            <a href="<?php echo bloginfo('url'); ?>"><img src ="http://rcolecreative.com/vectorgen/wp-content/uploads/2019/03/logo.png" class="logo" alt="Home"></a>
           </div>
 
           <div class="seven columns">
