@@ -14,7 +14,7 @@ Text Domain: vectorgen
 
 /* Colors:
 Blue: #174A7F
-Light Gray: #174A7F
+Light Gray: #c7d6e0
 Teal: #40B2B1
 Charcoal: #383E4B
 White: #F4FAFE
@@ -37,5 +37,5 @@ p{
 
 header, footer{
   background-color: #174A7F;
-  color: ##F4FAFE;
+  color: #F4FAFE;
 }
