@@ -76,7 +76,7 @@ header ul li, footer ul li{
   padding: 20px;
 }
 
-.logo img{
+header .logo{
   width: 100%;
   max-width: 100px;
   height: auto;
