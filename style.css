@@ -34,3 +34,8 @@ p{
   font-family: 'Open Sans', sans-serif;
   color: #383E4B;
 }
+
+header, footer{
+  background-color: #174A7F;
+  color: ##F4FAFE;
+}
