@@ -43,6 +43,7 @@ header{
 header a{
   color: #383E4B;
   text-decoration: none;
+  list-style-type: none;
 }
 
 footer{
@@ -53,4 +54,5 @@ footer{
 footer a{
   color: #f4fafe;
   text-decoration: none;
+  list-style-type: none;
 }
