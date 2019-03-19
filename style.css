@@ -81,3 +81,9 @@ header .logo{
   max-width: 100px;
   height: auto;
 }
+
+.center-header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

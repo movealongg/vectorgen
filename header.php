@@ -15,11 +15,11 @@
     <header>
       <div class="container">
         <div class="row">
-          <div class="five columns">
+          <div class="five columns center-header">
             <a href="<?php echo bloginfo('url'); ?>"><img src ="http://rcolecreative.com/vectorgen/wp-content/uploads/2019/03/logo-1.png" class="logo" alt="Home"></a>
           </div>
 
-          <div class="seven columns">
+          <div class="seven columns center-header">
             <?php wp_nav_menu(array(
               'theme_location' => 'header-menu',
               'container-class' => 'menu-header'
