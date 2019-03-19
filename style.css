@@ -75,3 +75,9 @@ header ul li, footer ul li{
   display: inline;
   padding: 20px;
 }
+
+.logo{
+  width: 100%;
+  max-width: 100px;
+  height: auto;
+}
