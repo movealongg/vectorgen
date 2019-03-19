@@ -51,6 +51,7 @@ header{
 header a{
   color: #383E4B;
   text-decoration: none;
+  padding: 20px;
 }
 
 footer{
@@ -61,6 +62,7 @@ footer{
 footer a{
   color: #f4fafe;
   text-decoration: none;
+  padding: 20px;
 }
 
 header ul li, footer ul li{
@@ -69,4 +71,5 @@ header ul li, footer ul li{
 
 .menu ul li{
   display: inline;
+
 }
