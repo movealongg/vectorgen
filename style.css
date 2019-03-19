@@ -63,6 +63,10 @@ footer a{
   text-decoration: none;
 }
 
+header ul{
+  float: right;
+}
+
 header ul li, footer ul li{
   list-style-type: none;
 }
