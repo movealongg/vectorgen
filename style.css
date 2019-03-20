@@ -21,9 +21,7 @@ White: #F4FAFE
 */
 
 body{
-
   background-color: #F4FAFE;
-
   color: #383E4B;
 }
 
@@ -55,6 +53,25 @@ header a{
   text-decoration: none;
 }
 
+header .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header ul{
+  float: right;
+}
+
+ul#menu-header-nav {
+    margin: 0;
+}
+
+ul#menu-header-nav li {
+  display: inline;
+  padding: 0 20px;
+}
+
 footer{
   background-color: #174A7F;
   color: #F4FAFE;
@@ -65,19 +82,11 @@ footer a{
   text-decoration: none;
 }
 
-header ul{
-  float: right;
-}
-
-ul#menu-header-nav li {
-    background-color: pink;
-    display: inline;
-    padding: 0 20px;
-}
-
 header ul li, footer ul li{
   list-style-type: none;
 }
+
+
 /* ul {
   margin-top: 2rem;
 }
