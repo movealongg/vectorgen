@@ -69,7 +69,7 @@ header ul{
   float: right;
 }
 
-ul {
+/* ul {
   margin-top: 2rem;
 }
 
@@ -80,7 +80,7 @@ header ul li, footer ul li{
 ul#menu-header-nav ul li{
   display: inline;
   padding: 20px;
-}
+} */
 
 header .logo{
   width: 100%;
@@ -88,11 +88,11 @@ header .logo{
   height: auto;
 }
 
-header .row{
+/* header .row{
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
 
 /* Blog Page */
 
