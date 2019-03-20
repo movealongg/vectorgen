@@ -1,3 +1,5 @@
+<?php /*Template Name: Our Plan Template*/ ?>
+
 <?php get_header(); ?>
 
 
