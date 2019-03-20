@@ -1,10 +1,7 @@
-<!--
-
 <?php get_header(); ?>
 
 <div class="container single">
 
-	<h1>Blog Post</h1>
 	<?php 
 		if(have_posts()){
 			while(have_posts()){
@@ -20,5 +17,3 @@
 	?>
 </div>
 <?php get_footer(); ?>
-
--->

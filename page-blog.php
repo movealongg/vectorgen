@@ -1,3 +1,4 @@
+<?php get_header(); ?>
 
 	<div class="container blog">
 		<div class="row">
@@ -22,3 +23,6 @@
 	</div>
 
 
+
+
+// <?php get_footer(); ?>
