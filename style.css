@@ -43,6 +43,7 @@ a:hover{
   color: #40B2B1;
 }
 
+/* Header */
 header{
   border-bottom: 3px solid #383e4b;
   color: #383E4B;
@@ -84,6 +85,13 @@ ul#menu-header-nav li:last-child a {
   align-items: center;
 }
 
+header .logo{
+  width: 100%;
+  max-width: 100px;
+  height: auto;
+}
+
+/* Footer */
 footer{
   background-color: #174A7F;
   color: #F4FAFE;
@@ -96,12 +104,6 @@ footer a{
 
 header ul li, footer ul li{
   list-style-type: none;
-}
-
-header .logo{
-  width: 100%;
-  max-width: 100px;
-  height: auto;
 }
 
 /* Blog Page */
