@@ -67,6 +67,9 @@ footer a{
 
 header ul{
   float: right;
+}
+
+ul {
   margin-top: 2rem;
 }
 
