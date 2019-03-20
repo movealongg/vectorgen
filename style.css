@@ -77,7 +77,7 @@ header ul li, footer ul li{
   list-style-type: none;
 }
 
-ul#menu-header-nav li{
+ul#menu-header-nav ul li{
   display: inline;
   padding: 20px;
 }
