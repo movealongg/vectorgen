@@ -21,9 +21,9 @@ White: #F4FAFE
 */
 
 body{
-  
+
   background-color: #F4FAFE;
- 
+
   color: #383E4B;
 }
 
@@ -77,7 +77,7 @@ header ul li, footer ul li{
   list-style-type: none;
 }
 
-.menu ul li{
+ul#menu-header-nav li{
   display: inline;
   padding: 20px;
 }
@@ -100,32 +100,3 @@ header .row{
 
 
 /* Blog Post */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
