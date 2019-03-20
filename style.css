@@ -91,27 +91,11 @@ header ul li, footer ul li{
   list-style-type: none;
 }
 
-
-/* ul {
-  margin-top: 2rem;
-}
-
-ul#menu-header-nav ul li{
-  display: inline;
-  padding: 20px;
-} */
-
 header .logo{
   width: 100%;
   max-width: 100px;
   height: auto;
 }
-
-/* header .row{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
 
 /* Blog Page */
 
