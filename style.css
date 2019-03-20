@@ -64,12 +64,17 @@ header ul{
 }
 
 ul#menu-header-nav {
-    margin: 0;
+  margin: 0;
 }
 
 ul#menu-header-nav li {
   display: inline;
   padding: 0 20px;
+}
+
+.header-image a {
+  display: flex;
+  align-items: center;
 }
 
 footer{
