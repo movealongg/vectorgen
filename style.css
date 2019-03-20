@@ -75,12 +75,11 @@ ul#menu-header-nav li {
     padding: 0 20px;
 }
 
-/* ul {
-  margin-top: 2rem;
-}
-
 header ul li, footer ul li{
   list-style-type: none;
+}
+/* ul {
+  margin-top: 2rem;
 }
 
 ul#menu-header-nav ul li{
