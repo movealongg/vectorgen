@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-	<div class="container-blog">
+	<div class="container blog">
 		<div class="row">
 	
 		<?php 
@@ -8,7 +8,7 @@
 			if(have_posts()){
 				while (have_posts()){
 					the_post(); ?>
-					<div class="one-half column posts">
+					<div class="three column posts">
 						<h3><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h3>
 						<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a>
 						<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
