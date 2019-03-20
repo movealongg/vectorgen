@@ -19,10 +19,7 @@
 		     <?php	} //ends while loop
 			} // end if statement
 		?>
-		</div>
+		</div> 
 	</div>
 
 
-
-
-<?php get_footer(); ?>
