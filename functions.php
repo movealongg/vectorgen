@@ -15,3 +15,11 @@ add_action('init', 'custom_menus');
 
 
  ?>
+
+
+
+<?php 
+// BLOG PICTURES
+	add_theme_support('post-thumbnails');
+
+?>
