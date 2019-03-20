@@ -1,4 +1,3 @@
-<?php get_header(); ?>
 
 	<div class="container blog">
 		<div class="row">
