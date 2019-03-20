@@ -1,3 +1,5 @@
+<!--
+
 <?php get_header(); ?>
 
 <div class="container single">
@@ -18,3 +20,5 @@
 	?>
 </div>
 <?php get_footer(); ?>
+
+-->
