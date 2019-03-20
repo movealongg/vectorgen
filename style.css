@@ -72,6 +72,13 @@ ul#menu-header-nav li {
   padding: 0 20px;
 }
 
+ul#menu-header-nav li:last-child a {
+  background-color: #40B2B1;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+
 .header-image a {
   display: flex;
   align-items: center;
