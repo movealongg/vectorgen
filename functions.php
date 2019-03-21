@@ -24,6 +24,27 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
+
+  register_sidebar( array(
+    'name'          => ('Contact Form'),
+    'id'            => 'contact-form',
+    'description'   => 'Widget area for contact form',
+    'before_widget' => '<div class="contact-form">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Collaborators Text Block'),
+    'id'            => 'collaborators',
+    'description'   => 'Widget area for Collaborators section',
+    'before_widget' => '<div class="collaborators">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
 }
 
 add_action('widgets_init', 'blank_widgets_init');
