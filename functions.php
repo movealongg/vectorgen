@@ -7,19 +7,14 @@ function custom_menus(){
     'footer-menu' => __('Footer Menu')
   ));
 }
-
 add_action('init', 'custom_menus');
 
+// BLOG PICTURES
+	add_theme_support('post-thumbnails');
+
+//Add widget areas
 
 
 
 
  ?>
-
-
-
-<?php 
-// BLOG PICTURES
-	add_theme_support('post-thumbnails');
-
-?>
