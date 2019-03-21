@@ -6,6 +6,7 @@
   <!--Contact Text Block Section-->
   <div class="row">
     <div class="twelve columns">
+      <?php dynamic_sidebar('contact-us'); ?>
     </div>
   </div>
 
