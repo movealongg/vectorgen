@@ -152,6 +152,7 @@ header ul li, footer ul li{
 .contact-form input.wpcf7-form-control.wpcf7-submit:hover {
     background-color: #174A7F;
     color: #fff;
+    font-size: 1.5rem;
 }
 
 .collaborators {
