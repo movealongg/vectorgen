@@ -9,7 +9,7 @@
       </div>
 
       <div class="four columns">
-        <p>&copy; <?php echo "Copyright " echo date("Y"); echo " "; echo bloginfo('name'); ?></p>
+        <p>Copyright &copy; <?php echo date("Y"); echo " "; echo bloginfo('name'); ?></p>
       </div>
     </div>
   </div>
