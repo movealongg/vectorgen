@@ -141,6 +141,18 @@ header ul li, footer ul li{
 /* Blog Post */
 
 /* Contact Page */
+.contact-form input {
+  background-color: #40B2B1;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contact-form input:hover {
+    background-color: #174A7F;
+}
+
 .collaborators {
   padding-bottom: 50px;
 }
