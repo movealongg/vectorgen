@@ -141,16 +141,17 @@ header ul li, footer ul li{
 /* Blog Post */
 
 /* Contact Page */
-.contact-form input {
+.contact-form input.wpcf7-form-control.wpcf7-submit {
   background-color: #40B2B1;
-  color: white;
+  color: #fff;
   border-radius: 5px;
   border: none;
   font-family: 'Open Sans', sans-serif;
 }
 
-.contact-form input:hover {
+.contact-form input.wpcf7-form-control.wpcf7-submit:hover {
     background-color: #174A7F;
+    color: #fff;
 }
 
 .collaborators {
