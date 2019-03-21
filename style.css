@@ -127,6 +127,12 @@ header ul li, footer ul li{
   list-style-type: none;
 }
 
+/* Widgets */
+.widget-title{
+  text-align: center;
+  padding-top: 15px;
+}
+
 /* Blog Page */
 
 
