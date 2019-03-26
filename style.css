@@ -149,6 +149,7 @@ header ul li, footer ul li{
 
 .form-bg{
   background-color: #c7d6e0;
+  padding: 30px;
 }
 
 .contact-form input.wpcf7-form-control.wpcf7-submit {

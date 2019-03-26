@@ -11,11 +11,13 @@
   </div>
 </div>
 
-<div class="container form-bg">
-  <!--Contact Form Section-->
-  <div class="row contact-page">
-    <div class="eleven columns">
-      <?php dynamic_sidebar('contact-form'); ?>
+<div class="form-bg">
+  <div class="container">
+    <!--Contact Form Section-->
+    <div class="row contact-page">
+      <div class="eleven columns">
+        <?php dynamic_sidebar('contact-form'); ?>
+      </div>
     </div>
   </div>
 </div>
