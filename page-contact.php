@@ -5,21 +5,21 @@
 <div class="container">
   <!--Contact Text Block Section-->
   <div class="row">
-    <div class="twelve columns">
+    <div class="eleven columns">
       <?php dynamic_sidebar('contact-us'); ?>
     </div>
   </div>
 
   <!--Contact Form Section-->
   <div class="row">
-    <div class="twelve columns">
+    <div class="eleven columns">
       <?php dynamic_sidebar('contact-form'); ?>
     </div>
   </div>
 
   <!--Collaborators Text Block Section-->
   <div class="row">
-    <div class="twelve columns">
+    <div class="eleven columns">
       <?php dynamic_sidebar('collaborators'); ?>
     </div>
   </div>
