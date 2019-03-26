@@ -5,11 +5,8 @@
 	<div class="container blog">
 	
 		<div class="row">
-		<h1> HELLO This is A TEST! <h1>
 	
 		<?php 
-
-
 
 			if(have_posts()){
 				while (have_posts()){
