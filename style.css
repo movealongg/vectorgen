@@ -115,16 +115,24 @@ footer a{
 footer .row{
   display: flex;
   flex-direction: column;
+  j
 }
 
 ul#menu-footer-nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding-top: 15px;
 }
 
 header ul li, footer ul li{
   list-style-type: none;
+}
+
+/* Widgets */
+.widget-title{
+  text-align: center;
+  padding-top: 15px;
 }
 
 /* Blog Page */
@@ -133,3 +141,37 @@ header ul li, footer ul li{
 
 
 /* Blog Post */
+
+/* Contact Page */
+
+.row.contact-page{
+  display: flex;
+  justify-content: center;
+}
+
+.form-bg{
+  background-color: #c7d6e0;
+  padding: 30px;
+}
+
+.contact-form input.wpcf7-form-control.wpcf7-submit {
+  background-color: #40B2B1;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+.contact-form input.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: #174A7F;
+    color: #fff;
+}
+
+.contact-us{
+  padding: 20px 0 30px 0;
+}
+
+.collaborators {
+    padding: 20px 0 50px 0;
+}

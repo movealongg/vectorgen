@@ -4,26 +4,38 @@
 
 <div class="container">
   <!--Contact Text Block Section-->
-  <div class="row">
-    <div class="twelve columns">
+  <div class="row contact-page">
+    <div class="eleven columns">
       <?php dynamic_sidebar('contact-us'); ?>
     </div>
   </div>
-
-  <!--Contact Form Section-->
-  <div class="row">
-    <div class="twelve columns">
-    </div>
-  </div>
-
-  <!--Collaborators Text Block Section-->
-  <div class="row">
-    <div class="twelve columns">
-    </div>
-  </div>
-
-
 </div>
+
+<div class="form-bg">
+  <div class="container">
+    <!--Contact Form Section-->
+    <div class="row contact-page">
+      <div class="six columns">
+        <?php dynamic_sidebar('contact-form'); ?>
+      </div>
+
+      <div class="five columns">
+        <?php dynamic_sidebar('map'); ?>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <!--Collaborators Text Block Section-->
+  <div class="row contact-page">
+    <div class="eleven columns">
+      <?php dynamic_sidebar('collaborators'); ?>
+    </div>
+  </div>
+</div>
+
+
 
 
 
