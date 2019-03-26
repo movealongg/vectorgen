@@ -141,6 +141,16 @@ header ul li, footer ul li{
 /* Blog Post */
 
 /* Contact Page */
+
+.row.contact-page{
+  display: flex;
+  justify-content: center;
+}
+
+.form-bg{
+  background-color: #c7d6e0;
+}
+
 .contact-form input.wpcf7-form-control.wpcf7-submit {
   background-color: #40B2B1;
   color: #fff;
@@ -157,9 +167,4 @@ header ul li, footer ul li{
 
 .collaborators {
   padding-bottom: 50px;
-}
-
-.contact-page{
-  display: flex;
-  justify-content: center;
 }
