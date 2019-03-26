@@ -25,6 +25,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+//Contact Form Section
   register_sidebar( array(
     'name'          => ('Contact Form'),
     'id'            => 'contact-form',
@@ -34,7 +35,18 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
+//Map section
+  register_sidebar( array(
+      'name'          => ('Map Block'),
+      'id'            => 'map',
+      'description'   => 'Widget area for map section',
+      'before_widget' => '<div class="map">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+    ));
 
+//Collaborators Section
   register_sidebar( array(
     'name'          => ('Collaborators Text Block'),
     'id'            => 'collaborators',
