@@ -115,12 +115,14 @@ footer a{
 footer .row{
   display: flex;
   flex-direction: column;
+  j
 }
 
 ul#menu-footer-nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding-top: 15px;
 }
 
 header ul li, footer ul li{
