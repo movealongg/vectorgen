@@ -2,19 +2,8 @@
 
 <?php get_header(); ?>
 
- <div class="container">
-      <?php
-        if(have_posts()){
-          while(have_posts()){
-            the_post();?>
-            <?php the_content();
-          }
-        }
-      ?>
-</div>
-
 	<div class="container blog">
-
+	
 		<div class="row">
 		<h1> HELLO This is A TEST! <h1>
 	
