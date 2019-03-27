@@ -25,6 +25,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Home Text Block Widget
+  register_sidebar( array(
+    'name'          => ('Home Text Block'),
+    'id'            => 'home-block',
+    'description'   => 'Widget area for home section',
+    'before_widget' => '<div class="home-block">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //Contact Text Block Widget
   register_sidebar( array(
     'name'          => ('Contact Text Block'),
