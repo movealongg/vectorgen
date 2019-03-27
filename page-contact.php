@@ -20,7 +20,7 @@
       </div>
 
       <div class="five columns">
-        <?php dynamic_sidebar('map'); ?>
+        <?php dynamic_sidebar('half-block'); ?>
       </div>
     </div>
   </div>

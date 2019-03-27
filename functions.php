@@ -35,12 +35,12 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-//Map section
+//Contact Half Text Block section
   register_sidebar( array(
-      'name'          => ('Map Block'),
-      'id'            => 'map',
-      'description'   => 'Widget area for map section',
-      'before_widget' => '<div class="map">',
+      'name'          => ('Half Block'),
+      'id'            => 'half-block',
+      'description'   => 'Widget area for half text block',
+      'before_widget' => '<div class="half-block">',
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
