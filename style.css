@@ -149,7 +149,7 @@ header ul li, footer ul li{
 
 /* Contact Page */
 
-.row.contact-page{
+.row.contact-page, .row.home-page{
   display: flex;
   justify-content: center;
 }
