@@ -135,6 +135,11 @@ header ul li, footer ul li{
   padding-top: 15px;
 }
 
+/* Home Page */
+.home-block{
+  background-color: #c7d6e0;
+}
+
 /* Blog Page */
 
 
