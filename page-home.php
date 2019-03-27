@@ -9,7 +9,7 @@
 <div class="home-block-color">
 	<div class="container">
 	  <!--Contact Text Block Section-->
-	  <div class="row">
+	  <div class="row home-page">
 	    <div class="eleven columns">
 	      <?php dynamic_sidebar('home-block'); ?>
 	    </div>
