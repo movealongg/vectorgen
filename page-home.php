@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 
 <div class="container">
-	<h1>HOME PAGE</h1>
+	<div class="row">
+		<div class="twelve columns">
+			<?php dynamic_sidebar('hero-image'); ?>
 </div>
 
 

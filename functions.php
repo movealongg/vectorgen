@@ -14,6 +14,17 @@ add_action('init', 'custom_menus');
 
 //Add Widget Areas
 function blank_widgets_init(){
+  //Hero Image Widget
+  register_sidebar( array(
+    'name'          => ('Hero Image'),
+    'id'            => 'hero-image',
+    'description'   => 'Hero image on home page',
+    'before_widget' => '<div class="hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //Contact Text Block Widget
   register_sidebar( array(
     'name'          => ('Contact Text Block'),
