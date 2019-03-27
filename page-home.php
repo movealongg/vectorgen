@@ -1,13 +1,9 @@
 <?php get_header(); ?>
 
-<div class="container">
-	<div class="row">
-		<div class="twelve columns">
+<div class="hero-section">
 			<?php dynamic_sidebar('hero-image'); ?>
-		</div>
-	</div>
 </div>
 
 
 
-// <?php get_footer(); ?>
+<?php get_footer(); ?>
