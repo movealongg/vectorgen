@@ -141,12 +141,12 @@ header ul li, footer ul li{
 }
 
 /* Blog Page */
-.posts{
-  margin-right: 25px;
+
+.one-third.column.posts {
+    margin-left: 0;
 }
 
 .blog-row{
-  margin-left: 12px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -159,7 +159,8 @@ a.blog-title{
 }
 
 a.blog-title:hover{
-  color: #174A7F;
+  color: #40B2B1;
+  font-weight: bold;
 
 
 }
