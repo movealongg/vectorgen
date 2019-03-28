@@ -141,6 +141,15 @@ header ul li, footer ul li{
 }
 
 /* Blog Page */
+.posts{
+  margin-right: 25px;
+}
+
+.blog-row{
+  margin-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 
 
