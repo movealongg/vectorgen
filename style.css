@@ -13,11 +13,11 @@ Text Domain: vectorgen
 @import url("stylesheets/skeleton.css");
 
 /* Colors:
-Blue: #174A7F
-Light Gray: #c7d6e0
-Teal: #40B2B1
-Charcoal: #383E4B
-White: #F4FAFE
+Blue: #174A7F;
+Light Gray: #c7d6e0;
+Teal: #40B2B1;
+Charcoal: #383E4B;
+White: #F4FAFE;
 */
 
 body{
@@ -149,6 +149,13 @@ header ul li, footer ul li{
   margin-left: 12px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+h3 a{
+  color: #383E4B;
+  font-size: 3rem;
+  text-decoration: none;
+
 }
 
 
