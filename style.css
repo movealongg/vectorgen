@@ -190,7 +190,7 @@ img.attachment-medium.size-medium.wp-post-image:hover {
 
 /* Blog Post */
 
-h2{
+h2.single{
   font-size: 5rem;
   font-weight: 300;
   text-align: center;
