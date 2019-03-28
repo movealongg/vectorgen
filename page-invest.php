@@ -20,7 +20,10 @@
 
 <!-- Money SECTION --> 
 <h5 class="invest">Where Your Money Goes</h5>
+</div>
+
   <div class="row money-section-learn-more ">
+  <div class="container invest-page">
     <div class="one-third column">
       <div class="money-1">
         <?php dynamic_sidebar('learn-more-money-1'); ?>
