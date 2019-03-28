@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 	<div class="container blog">
-		<h1>Industry News</h1>
+		<h1 class="blog">Industry News</h1>
 	
 			<div class="row blog-row">
 		
