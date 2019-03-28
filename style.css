@@ -278,8 +278,15 @@ p.p.l {
 
 /* OUR PLAN SECTION */
 
+.our_plan {
+  color: #F4FAFE;
+  text-align: center;
+  font-size: 2em;
+}
+
 .our-plan {
   color: #F4FAFE;
+  font-size: 1em;
 }
 
 .stage1_container {
@@ -292,16 +299,12 @@ p.p.l {
 }
 
 .stage1 {
-  color: #fff;
+  color: #F4FAFE;
   background-color: #383E4B;
 }
 
-.stage1-text {
+.stage1-text p {
   color: #F4FAFE;
-}
-
-.our-plan-stage1-text {
-  color: #fff;
 }
 
 .stage2 {
