@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<div class="hero-section">
+<div class="hero-section hero">
 			<?php dynamic_sidebar('hero-image'); ?>
 			<div class="centered">
           		<h1><?php the_title(); ?></h1>

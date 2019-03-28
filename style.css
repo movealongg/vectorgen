@@ -140,6 +140,12 @@ header ul li, footer ul li{
   background-color: #c7d6e0;
 }
 
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
 /* Learn More */
 
 h5.invest {
