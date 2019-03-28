@@ -37,6 +37,9 @@ p{
 
 a{
   font-family: 'Open Sans', sans-serif;
+  color: #383E4B;
+  font-size: 3rem;
+  text-decoration: none;
 }
 
 a:hover{
@@ -149,13 +152,6 @@ header ul li, footer ul li{
   margin-left: 12px;
   padding-top: 10px;
   padding-bottom: 10px;
-}
-
-a{
-  color: #383E4B;
-  font-size: 3rem;
-  text-decoration: none;
-
 }
 
 
