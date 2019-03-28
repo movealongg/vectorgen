@@ -273,7 +273,11 @@ p.p.l {
 }
 
 /* OUR PLAN SECTION */
-.stage1 {
+.ourplan_container {
   background-color: #383E4B;
+}
 
+.stage1 {
+  color: #fff;
+  background-color: #383E4B;
 }
