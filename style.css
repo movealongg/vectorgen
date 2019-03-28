@@ -185,13 +185,16 @@ img.attachment-medium.size-medium.wp-post-image {
 
 img.attachment-medium.size-medium.wp-post-image:hover {
   opacity: 0.5;
-  background: rgba(40,60,54,0.72);
   }  
 
 
-
-
 /* Blog Post */
+
+h2{
+  font-size: 5rem;
+  font-weight: 300;
+  text-align: center;
+}
 
 /* Contact Page */
 
