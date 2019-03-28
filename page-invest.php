@@ -5,12 +5,12 @@
 
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
-    <div class="nine columns">
+    <div class="six columns">
       <div class="invest-learn-more-image">
         <?php dynamic_sidebar('investment-potential-image'); ?>
       </div>
     </div>
-    <div class="three columns">
+    <div class="six columns">
       <div class="invest-learn-more">
         <?php dynamic_sidebar('investment-potential'); ?>
       </div>
