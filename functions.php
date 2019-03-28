@@ -79,7 +79,62 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-}
+// LEARN MORE - Investment Potential
+  register_sidebar( array(
+    'name'          => ('Investment Potential'),
+    'id'            => 'investment-potential',
+    'description'   => 'Widget area for investment potential on Learn More',
+    'before_widget' => '<div class="investment-potential">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));  
+
+//  LEARN MORE - Money Area 1
+    register_sidebar( array(
+      'name'          => ('Money Section - 1'),
+      'id'            => 'learn-more-money-1',
+      'description'   => 'Learn More - Money 1.',
+      'before_widget' => '<div class="learn-more-money-1">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+ // LEARN MORE - Money Area 2
+    register_sidebar( array(
+      'name'          => ('Money Section - 2'),
+      'id'            => 'learn-more-money-2',
+      'description'   => 'Learn More - Money 2.',
+      'before_widget' => '<div class="learn-more-money-2">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+// LEARN MORE - Money Area 3
+    register_sidebar( array(
+      'name'          => ('Money Section - 3'),
+      'id'            => 'learn-more-money-3',
+      'description'   => 'Learn More - Money 3.',
+      'before_widget' => '<div class="learn-more-money-3">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));
+
+// LEARN MORE - BUDGET
+    register_sidebar( array(
+      'name'          => ('Budget Section'),
+      'id'            => 'learn-more-budget',
+      'description'   => 'Learn More - Budget Section.',
+      'before_widget' => '<div class="learn-more-budget">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="widget-title">',
+      'after_title'   =>  '</h4>'
+    ));    
+
+} 
 
 add_action('widgets_init', 'blank_widgets_init');
 
