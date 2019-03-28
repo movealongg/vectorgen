@@ -141,6 +141,13 @@ header ul li, footer ul li{
 }
 
 /* Blog Page */
+h1.blog {
+    text-align: center;
+    margin-top: 42px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
 .one-third.column.posts {
     margin-left: 25px;
     margin-top: 40px;
