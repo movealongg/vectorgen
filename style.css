@@ -131,7 +131,7 @@ header ul li, footer ul li{
 /* Widgets */
 .widget-title{
   text-align: center;
-  padding-top: 15px;
+  padding: 15px;
 }
 
 /* Home Page */
