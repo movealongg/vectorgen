@@ -15,7 +15,7 @@
 						<h3><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h3>
 						<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a>
 						<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
-						<p class="p l"><?php echo "Article written by: " . get_the_author(); ?></p>
+						
 					</div>
 					
 		     <?php	} //ends while loop
