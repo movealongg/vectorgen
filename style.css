@@ -143,6 +143,7 @@ header ul li, footer ul li{
 /* Blog Page */
 .one-third.column.posts {
     margin-left: 12px;
+    margin-top: 36px;
 }
 
 .blog-row{
@@ -160,11 +161,16 @@ a.blog-title{
 a.blog-title:hover{
   color: #40B2B1;
   font-weight: bold;
-
-
 }
 
+h3{
+      margin-bottom: 0px;
+}
 
+p.p{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
 
 /* Blog Post */
 
