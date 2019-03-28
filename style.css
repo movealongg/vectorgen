@@ -158,6 +158,12 @@ a.blog-title{
 
 }
 
+a.blog-title:hover{
+  color: #174A7F;
+
+
+}
+
 
 
 /* Blog Post */
