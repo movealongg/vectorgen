@@ -11,7 +11,7 @@
 					<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
 					<p class="p l"><?php echo "Author: " . get_the_author(); 
 					?></p>
-					<?php the_content(); ?>
+					<div class="blog-post-content" ><?php the_content(); ?></div>
 					
 				<?php } // end while loop
 			}// end if statement

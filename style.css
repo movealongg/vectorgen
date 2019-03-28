@@ -192,8 +192,16 @@ img.attachment-medium.size-medium.wp-post-image:hover {
 
 h2.single{
   font-size: 5rem;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
+}
+
+p.p.l {
+    margin-bottom: 32px;
+}
+
+.blog-post-content{
+  margin-bottom: 15px;
 }
 
 /* Contact Page */
