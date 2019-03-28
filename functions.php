@@ -150,7 +150,7 @@ function blank_widgets_init(){
       'name'          => ('Our Plan Stage 1'),
       'id'            => 'stage1-text',
       'description'   => 'Our Plan - Stage 1 Section',
-      'before_widget' => '<div class="stage1-text>',
+      'before_widget' => '<div class="stage1-text">',
       'after_widget'  => '</div>',
       'before_title'  => '<h2 class="our-plan">',
       'after_title'   =>  '</h2>'
@@ -172,7 +172,7 @@ function blank_widgets_init(){
       'name'          => ('Our Plan Stage 2'),
       'id'            => 'stage2-text',
       'description'   => 'Our Plan - Stage 2 Section',
-      'before_widget' => '<div class="stage2-text>',
+      'before_widget' => '<div class="stage2-text">',
       'after_widget'  => '</div>',
       'before_title'  => '<h2 class="our-plan">',
       'after_title'   =>  '</h2>'
