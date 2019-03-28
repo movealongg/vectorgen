@@ -10,7 +10,7 @@
     <!--Stage 1 Section -->
         <div class="row stage1">
             <div class="six columns">
-                <div class="our-plan-stage1-text">
+                <div class="stage1-text">
                     <?php dynamic_sidebar('stage1-text'); ?>
                 </div>
             </div>
@@ -27,7 +27,6 @@
 <div class="stage2_container">
     
     <div class="container ">
-        <h5 class="our_plan">Our Plan</h5>
 
     <!--Stage 2 Section -->
         <div class="row stage2">
