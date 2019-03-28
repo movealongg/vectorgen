@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-	<?php the_post_thumbnail('full-size'); ?>
+	<div class="hero-image-blog"><?php the_post_thumbnail('full-size'); ?></div>
 
 		<div class="container single">
 
