@@ -2,9 +2,10 @@
 
 <div class="container invest-page">
 <h5 class="invest">Investment Potential</h5>
-
+</div>
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
+  <div class="container invest-page">
     <div class="six columns">
       <div class="invest-learn-more-image">
         <?php dynamic_sidebar('investment-potential-image'); ?>
@@ -18,12 +19,10 @@
   </div>
 
 
+
 <!-- Money SECTION --> 
 <h5 class="invest">Where Your Money Goes</h5>
-</div>
-
   <div class="row money-section-learn-more ">
-  <div class="container invest-page">
     <div class="one-third column">
       <div class="money-1">
         <?php dynamic_sidebar('learn-more-money-1'); ?>
@@ -61,7 +60,7 @@
 
 
 
-
+</div>
 	
 </div>
 
