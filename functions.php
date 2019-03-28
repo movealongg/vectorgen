@@ -143,7 +143,29 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
-    ));    
+    ));   
+  
+  // OUR PLAN - RESEARCH
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 1'),
+      'id'            => 'stage1-text',
+      'description'   => 'Our Plan - Research Text Section',
+      'before_widget' => '<div class="stage1-text>',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h4 class="our-plan">',
+      'after_title'   =>  '</h4>'
+    ));  
+
+// LEARN MORE - OUR PLAN IMAGE
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 1 Image'),
+      'id'            => 'stage1-image',
+      'description'   => 'Widget area for Our Plan Stage 1 IMAGE',
+      'before_widget' => '<div class="stage1-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="stage1-image">',
+      'after_title'   => '</h3>'
+  ));  
 
 } 
 

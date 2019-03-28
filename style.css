@@ -112,10 +112,9 @@ footer a{
   font-weight: 700;
 }
 
-footer .row{
+footer .row {
   display: flex;
   flex-direction: column;
-  j
 }
 
 ul#menu-footer-nav {
@@ -270,5 +269,11 @@ p.p.l {
 }
 
 .collaborators {
-    padding: 20px 0 50px 0;
+  padding: 20px 0 50px 0;
+}
+
+/* OUR PLAN SECTION */
+.stage1 {
+  background-color: #383E4B;
+
 }
