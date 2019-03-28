@@ -4,6 +4,9 @@
 
 <div class="hero-section">
 			<?php dynamic_sidebar('hero-image'); ?>
+			<div class="centered">
+          		<h1><?php the_title(); ?></h1>
+        	</div>
 </div>
 
 <div class="home-block-color">
