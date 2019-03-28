@@ -141,9 +141,8 @@ header ul li, footer ul li{
 }
 
 /* Blog Page */
-
 .one-third.column.posts {
-    margin-left: 0;
+    margin-left: 12px;
 }
 
 .blog-row{
