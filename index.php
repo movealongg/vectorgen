@@ -16,7 +16,6 @@
 						<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a>
 						<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
 						<p class="p l"><?php echo "Article written by: " . get_the_author(); ?></p>
-						<?php the_excerpt(); ?>
 					</div>
 					
 		     <?php	} //ends while loop
