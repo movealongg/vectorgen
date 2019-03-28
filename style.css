@@ -279,9 +279,12 @@ p.p.l {
 /* OUR PLAN SECTION */
 .ourplan_container {
   background-color: #383E4B;
+  color: #fff;
 }
 
 .stage1 {
   color: #fff;
   background-color: #383E4B;
 }
+
+
