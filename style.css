@@ -277,6 +277,11 @@ p.p.l {
 }
 
 /* OUR PLAN SECTION */
+
+.ourplan {
+  color: #fff;
+}
+
 .ourplan_container {
   background-color: #383E4B;
   color: #fff;
@@ -285,6 +290,10 @@ p.p.l {
 .stage1 {
   color: #fff;
   background-color: #383E4B;
+}
+
+.stage1-text {
+  color: #fff;
 }
 
 .our-plan-stage1-text {
