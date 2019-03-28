@@ -90,6 +90,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));  
 
+// LEARN MORE - Investment Potential IMAGE
+  register_sidebar( array(
+    'name'          => ('Investment Potential Image'),
+    'id'            => 'investment-potential-image',
+    'description'   => 'Widget area for investment potential IMAGE on Learn More',
+    'before_widget' => '<div class="investment-potential-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));   
+
 //  LEARN MORE - Money Area 1
     register_sidebar( array(
       'name'          => ('Money Section - 1'),
