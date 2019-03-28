@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container invest-page">
-<h1 class="invest blog">Investment Potential</h1>
+<h5 class="invest">Investment Potential</h5>
 
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
@@ -14,6 +14,7 @@
 
 
 <!-- Money SECTION --> 
+<h5 class="invest">Where Your Money Goes</h5>
   <div class="row money-section-learn-more ">
     <div class="one-third column">
       <div class="money-1">

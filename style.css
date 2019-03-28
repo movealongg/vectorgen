@@ -140,6 +140,16 @@ header ul li, footer ul li{
   background-color: #c7d6e0;
 }
 
+/* Learn More */
+
+h5.invest {
+    text-align: center;
+    margin-top: 42px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+
 /* Blog Page */
 h1.blog {
     text-align: center;
