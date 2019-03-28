@@ -44,5 +44,67 @@
     </div>
 </div>
 
+<div class="stage3_container">
+    
+    <div class="container ">
+        <h5 class="our_plan">Our Plan</h5>
+
+    <!--Stage 1 Section -->
+        <div class="row stage3">
+            <div class="six columns">
+                <div class="stage3-text">
+                    <?php dynamic_sidebar('stage3-text'); ?>
+                </div>
+            </div>
+            <div class="six columns">
+                <div class="our-plan-stage3-image">
+                    <?php dynamic_sidebar('stage3-image'); ?>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>
+
+<div class="stage4_container">
+    
+    <div class="container ">
+
+    <!--Stage 2 Section -->
+        <div class="row stage4">
+            <div class="six columns">
+                <div class="our-plan-stage4-image">
+                    <?php dynamic_sidebar('stage4-image'); ?>
+                </div>
+            </div>
+            <div class="six columns">
+                <div class="stage4-text">
+                    <?php dynamic_sidebar('stage4-text'); ?>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>
+
+<div class="stage5_container">
+    
+    <div class="container ">
+        <h5 class="our_plan">Our Plan</h5>
+
+    <!--Stage 1 Section -->
+        <div class="row stage5">
+            <div class="six columns">
+                <div class="stage5-text">
+                    <?php dynamic_sidebar('stage5-text'); ?>
+                </div>
+            </div>
+            <div class="six columns">
+                <div class="our-plan-stage5-image">
+                    <?php dynamic_sidebar('stage5-image'); ?>
+                </div>
+            </div>
+        </div> 
+    </div>
+</div>
+
 
 <?php get_footer(); ?>

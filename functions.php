@@ -145,7 +145,7 @@ function blank_widgets_init(){
       'after_title'   =>  '</h4>'
     ));   
   
-  // OUR PLAN - RESEARCH
+  // OUR PLAN - STAGE 1
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1'),
       'id'            => 'stage1-text',
@@ -156,7 +156,7 @@ function blank_widgets_init(){
       'after_title'   =>  '</h3>'
     ));  
 
-//   OUR PLAN IMAGE
+//   OUR PLAN - STAGE 1 IMAGE
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1 Image'),
       'id'            => 'stage1-image',
@@ -167,7 +167,7 @@ function blank_widgets_init(){
       'after_title'   => '</h3>'
   ));  
 
-//  OUR PLAN - RESEARCH
+//  OUR PLAN - STAGE 2
     register_sidebar( array(
       'name'          => ('Our Plan Stage 2'),
       'id'            => 'stage2-text',
@@ -178,7 +178,7 @@ function blank_widgets_init(){
       'after_title'   =>  '</h3>'
   ));  
 
-//  OUR PLAN IMAGE
+//  OUR PLAN - STAGE 2 IMAGE
     register_sidebar( array(
       'name'          => ('Our Plan Stage 2 Image'),
       'id'            => 'stage2-image',
@@ -188,6 +188,72 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
 ));  
+
+//  OUR PLAN - STAGE 3
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 3'),
+      'id'            => 'stage3-text',
+      'description'   => 'Our Plan - Stage 3 Section',
+      'before_widget' => '<div class="stage3-text">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan-stage3">',
+      'after_title'   =>  '</h3>'
+));  
+
+//  OUR PLAN - STAGE 3 IMAGE
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 3 Image'),
+      'id'            => 'stage3-image',
+      'description'   => 'Widget area for Our Plan Stage 3 IMAGE',
+      'before_widget' => '<div class="stage3-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan">',
+      'after_title'   => '</h3>'
+)); 
+
+//  OUR PLAN - STAGE 4
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 4'),
+      'id'            => 'stage4-text',
+      'description'   => 'Our Plan - Stage 4 Section',
+      'before_widget' => '<div class="stage4-text">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan-stage4">',
+      'after_title'   =>  '</h3>'
+));  
+
+//  OUR PLAN - STAGE 4 IMAGE
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 4 Image'),
+      'id'            => 'stage4-image',
+      'description'   => 'Widget area for Our Plan Stage 4 IMAGE',
+      'before_widget' => '<div class="stage4-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan">',
+      'after_title'   => '</h3>'
+)); 
+
+//  OUR PLAN - STAGE 5
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 5'),
+      'id'            => 'stage5-text',
+      'description'   => 'Our Plan - Stage 5 Section',
+      'before_widget' => '<div class="stage5-text">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan-stage5">',
+      'after_title'   =>  '</h3>'
+));  
+
+//  OUR PLAN - STAGE 5 IMAGE
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 5 Image'),
+      'id'            => 'stage5-image',
+      'description'   => 'Widget area for Our Plan Stage 5 IMAGE',
+      'before_widget' => '<div class="stage5-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan">',
+      'after_title'   => '</h3>'
+)); 
 
 } 
 
