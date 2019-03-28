@@ -282,11 +282,14 @@ p.p.l {
   color: #F4FAFE;
   text-align: center;
   font-size: 2em;
+  padding: 20px;
+  margin: 0;
 }
 
 .our-plan {
   color: #F4FAFE;
-  font-size: 1em;
+  font-size: 1.7em;
+  padding-bottom: 15px;
 }
 
 .stage1_container {
@@ -301,6 +304,7 @@ p.p.l {
 .stage1 {
   color: #F4FAFE;
   background-color: #383E4B;
+  padding-bottom: 40px;
 }
 
 .stage1-text p {
@@ -309,6 +313,7 @@ p.p.l {
 
 .stage2 {
   background-color: #c7d6e0;
+  padding: 40px 0px 40px 0px;
 }
 
 

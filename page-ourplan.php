@@ -32,7 +32,7 @@
         <div class="row stage2">
             <div class="six columns">
                 <div class="our-plan-stage2-image">
-                    <?php dynamic_sidebar('our-plan-stage2-image'); ?>
+                    <?php dynamic_sidebar('stage2-image'); ?>
                 </div>
             </div>
             <div class="six columns">
