@@ -2,9 +2,9 @@
 
 <?php get_header(); ?>
 
-<div class="ourplan_container">
-
-    <div class="container">
+<div class="stage1_container">
+    
+    <div class="container ">
         <h5 class="our_plan">Our Plan</h5>
 
     <!--Stage 1 Section -->
@@ -20,28 +20,29 @@
                 </div>
             </div>
         </div> 
+    </div>
+</div>
 
-    <!--Stage 1 Section -->
+
+<div class="stage2_container">
+    
+    <div class="container ">
+        <h5 class="our_plan">Our Plan</h5>
+
+    <!--Stage 2 Section -->
         <div class="row stage2">
             <div class="six columns">
                 <div class="our-plan-stage2-image">
-                    <?php dynamic_sidebar('stage2-image'); ?>
-                </div>
+                    <?php dynamic_sidebar('our-plan-stage2-image'); ?>
                 </div>
             </div>
             <div class="six columns">
-                <div class="our-plan-stage2-text">
+                <div class="stage2-text">
                     <?php dynamic_sidebar('stage2-text'); ?>
                 </div>
             </div>
         </div> 
-
-
-
-    </div> 
-
-
-
+    </div>
 </div>
 
 

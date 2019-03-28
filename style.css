@@ -282,9 +282,13 @@ p.p.l {
   color: #fff;
 }
 
-.ourplan_container {
+.stage1_container {
   background-color: #383E4B;
   color: #fff;
+}
+
+.stage2_container {
+  background-color: #c7d6e0;
 }
 
 .stage1 {
