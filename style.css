@@ -141,7 +141,7 @@ header ul li, footer ul li{
 }
 
 /* Blog Page */
-h1.blog {
+h1.blog.invest {
     text-align: center;
     margin-top: 42px;
     margin-bottom: 0px;
