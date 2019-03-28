@@ -152,7 +152,7 @@ function blank_widgets_init(){
       'description'   => 'Our Plan - Stage 1 Section',
       'before_widget' => '<div class="stage1-text">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3 class="our-plan">',
+      'before_title'  => '<h3 class="our-plan-stage1">',
       'after_title'   =>  '</h3>'
     ));  
 
@@ -174,7 +174,7 @@ function blank_widgets_init(){
       'description'   => 'Our Plan - Stage 2 Section',
       'before_widget' => '<div class="stage2-text">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h3 class="our-plan">',
+      'before_title'  => '<h3 class="our-plan-stage2">',
       'after_title'   =>  '</h3>'
   ));  
 

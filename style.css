@@ -286,8 +286,14 @@ p.p.l {
   margin: 0;
 }
 
-.our-plan {
+.our-plan-stage1 {
   color: #F4FAFE;
+  font-size: 1.7em;
+  padding-bottom: 15px;
+}
+
+.our-plan-stage2 {
+  color: #383E4B;
   font-size: 1.7em;
   padding-bottom: 15px;
 }
