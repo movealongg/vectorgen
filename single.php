@@ -9,7 +9,7 @@
 					the_post();?>
 					<h2><?php the_title(); ?></h2>
 					<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
-					<p class="p l"><?php echo "Article written by: " . get_the_author(); 
+					<p class="p l"><?php echo "Author: " . get_the_author(); 
 					?></p>
 					<?php the_content(); ?>
 					
