@@ -194,6 +194,7 @@ h2.single{
   font-size: 5rem;
   font-weight: 400;
   text-align: center;
+  margin-top: 15px;
 }
 
 p.p.l {
@@ -201,7 +202,7 @@ p.p.l {
 }
 
 .blog-post-content{
-  margin-bottom: 15px;
+  margin-bottom: 80px;
 }
 
 /* Contact Page */
