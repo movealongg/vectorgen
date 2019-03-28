@@ -20,6 +20,23 @@
                 </div>
             </div>
         </div> 
+
+    <!--Stage 1 Section -->
+        <div class="row stage2">
+            <div class="six columns">
+                <div class="our-plan-stage2-text">
+                    <?php dynamic_sidebar('stage2-text'); ?>
+                </div>
+            </div>
+            <div class="six columns">
+                <div class="our-plan-stage2-image">
+                    <?php dynamic_sidebar('stage2-image'); ?>
+                </div>
+            </div>
+        </div> 
+
+
+
     </div> 
 
 

@@ -149,14 +149,14 @@ function blank_widgets_init(){
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1'),
       'id'            => 'stage1-text',
-      'description'   => 'Our Plan - Research Text Section',
+      'description'   => 'Our Plan - Stage 1 Section',
       'before_widget' => '<div class="stage1-text>',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="our-plan">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h2 class="our-plan">',
+      'after_title'   =>  '</h2>'
     ));  
 
-// LEARN MORE - OUR PLAN IMAGE
+//   OUR PLAN IMAGE
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1 Image'),
       'id'            => 'stage1-image',
@@ -166,6 +166,28 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="stage1-image">',
       'after_title'   => '</h3>'
   ));  
+
+//  OUR PLAN - RESEARCH
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 2'),
+      'id'            => 'stage2-text',
+      'description'   => 'Our Plan - Stage 2 Section',
+      'before_widget' => '<div class="stage2-text>',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h2 class="our-plan">',
+      'after_title'   =>  '</h2>'
+  ));  
+
+//  OUR PLAN IMAGE
+    register_sidebar( array(
+      'name'          => ('Our Plan Stage 2 Image'),
+      'id'            => 'stage2-image',
+      'description'   => 'Widget area for Our Plan Stage 2 IMAGE',
+      'before_widget' => '<div class="stage2-image">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="our-plan">',
+      'after_title'   => '</h3>'
+));  
 
 } 
 
