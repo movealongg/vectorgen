@@ -39,6 +39,7 @@
   </div>
 
 <!-- Budget SECTION -->
+<h5 class="invest">Budget</h5>
   <div class="row budget-section">
     <div class="twelve columns">
       <div class="budget-learn-more">
@@ -61,5 +62,6 @@
 
 	
 </div>
+
 
 // <?php get_footer(); ?>
