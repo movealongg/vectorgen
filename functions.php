@@ -287,6 +287,33 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
 ));
+    register_sidebar( array(
+      'name'          => ('Image About'),
+      'id'            => 'image-about',
+      'description'   => 'Image on about page',
+      'before_widget' => '<div class="image-about">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
+    register_sidebar( array(
+      'name'          => ('About Counters One'),
+      'id'            => 'about-counter-one',
+      'description'   => 'Counters on About Page',
+      'before_widget' => '<div class="about-counter">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
+    register_sidebar( array(
+      'name'          => ('About Counters Two'),
+      'id'            => 'about-counter-two',
+      'description'   => 'Counters on About Page',
+      'before_widget' => '<div class="about-counter">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
 }
 
 add_action('widgets_init', 'blank_widgets_init');

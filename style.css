@@ -408,3 +408,11 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 
 /* ABOUT PAGE */
+
+.inner {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  right: 40px;
+  top: 0px;
+}
