@@ -8,9 +8,9 @@
 
 <div class="row">
 	<div class="six columns">
-		<div class="inner">
+		<!-- <div class="inner"> -->
 			<?php dynamic_sidebar('image-about'); ?>
-		</div>
+		<!-- </div> -->
 	</div>
 	<div class="three columns">
 		<?php dynamic_sidebar('about-counter-one'); ?>	
