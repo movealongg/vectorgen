@@ -25,7 +25,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //Hero Image Widget
+  //Hero Image Text Widget
   register_sidebar( array(
     'name'          => ('Hero Image Text'),
     'id'            => 'hero-image-text',
@@ -42,6 +42,17 @@ function blank_widgets_init(){
     'id'            => 'home-block',
     'description'   => 'Widget area for home section',
     'before_widget' => '<div class="home-block">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home Image Widget Bottom
+  register_sidebar( array(
+    'name'          => ('Home Image'),
+    'id'            => 'home-image',
+    'description'   => 'Home image on bottom of home page',
+    'before_widget' => '<div class="home-image">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'

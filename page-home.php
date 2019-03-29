@@ -20,5 +20,9 @@
 	</div>
 </div>
 
+<div class="home-image-section">
+		<?php dynamic_sidebar('home-image'); ?>
+</div>
+
 
 <?php get_footer(); ?>
