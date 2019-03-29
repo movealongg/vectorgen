@@ -276,12 +276,12 @@ p.p.l {
   padding: 20px 0 50px 0;
 }
 
-/* OUR PLAN SECTION */
+/* OUR PLAN PAGE */
 
 .our_plan {
   color: #F4FAFE;
   text-align: center;
-  font-size: 2em;
+  font-size: 2.3em;
   padding: 20px;
   margin: 0;
 }
@@ -342,7 +342,7 @@ p.p.l {
 .stage1 {
   color: #F4FAFE;
   background-color: #383E4B;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
 }
 
 .stage1-text p {
@@ -359,23 +359,25 @@ p.p.l {
 
 .stage2 {
   background-color: #F4FAFE;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
 }
 
 .stage3 {
   background-color: #c7d6e0;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
 }
 
 .stage4 {
   color: #F4FAFE;
   background-color: #383E4B;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
 }
 
 .stage5 {
   background-color: #F4FAFE;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
 }
+
+/* ABOUT PAGE */
 
 

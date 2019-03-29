@@ -254,7 +254,17 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
 )); 
-
+// ABOUT PAGE
+  //Hero Image Widget
+    register_sidebar( array(
+      'name'          => ('Hero Image About'),
+      'id'            => 'hero-image-about',
+      'description'   => 'Hero image on about page',
+      'before_widget' => '<div class="hero-image-about">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
 } 
 
 add_action('widgets_init', 'blank_widgets_init');
