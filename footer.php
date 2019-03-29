@@ -8,7 +8,7 @@
         ));?>
       </div>
 
-      <div class="four columns">
+      <div class="four columns copy-footer">
         <p>Copyright &copy; <?php echo date("Y"); echo " "; echo bloginfo('name'); ?></p>
       </div>
     </div>
