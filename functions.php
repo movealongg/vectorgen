@@ -25,6 +25,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+//Hero Image Text Widget
+  register_sidebar( array(
+    'name'          => ('Hero Image Text'),
+    'id'            => 'hero-image-text',
+    'description'   => 'Hero image text on home page',
+    'before_widget' => '<div class="hero-image-text">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //Home Text Block Widget
   register_sidebar( array(
     'name'          => ('Home Text Block'),
@@ -88,7 +99,7 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  ));  
+  ));
 
 // LEARN MORE - Investment Potential IMAGE
   register_sidebar( array(
@@ -99,7 +110,7 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  ));   
+  ));
 
 //  LEARN MORE - Money Area 1
     register_sidebar( array(
@@ -143,8 +154,8 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h4 class="widget-title">',
       'after_title'   =>  '</h4>'
-    ));   
-  
+    ));
+
   // OUR PLAN - STAGE 1
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1'),
@@ -154,7 +165,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan-stage1">',
       'after_title'   =>  '</h3>'
-    ));  
+    ));
 
 //   OUR PLAN - STAGE 1 IMAGE
     register_sidebar( array(
@@ -165,7 +176,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="stage1-image">',
       'after_title'   => '</h3>'
-  ));  
+  ));
 
 //  OUR PLAN - STAGE 2
     register_sidebar( array(
@@ -176,7 +187,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan-stage2">',
       'after_title'   =>  '</h3>'
-  ));  
+  ));
 
 //  OUR PLAN - STAGE 2 IMAGE
     register_sidebar( array(
@@ -187,7 +198,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
-));  
+));
 
 //  OUR PLAN - STAGE 3
     register_sidebar( array(
@@ -198,7 +209,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan-stage3">',
       'after_title'   =>  '</h3>'
-));  
+));
 
 //  OUR PLAN - STAGE 3 IMAGE
     register_sidebar( array(
@@ -209,7 +220,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
-)); 
+));
 
 //  OUR PLAN - STAGE 4
     register_sidebar( array(
@@ -220,7 +231,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan-stage4">',
       'after_title'   =>  '</h3>'
-));  
+));
 
 //  OUR PLAN - STAGE 4 IMAGE
     register_sidebar( array(
@@ -231,7 +242,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
-)); 
+));
 
 //  OUR PLAN - STAGE 5
     register_sidebar( array(
@@ -242,7 +253,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan-stage5">',
       'after_title'   =>  '</h3>'
-));  
+));
 
 //  OUR PLAN - STAGE 5 IMAGE
     register_sidebar( array(
@@ -253,9 +264,9 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
-)); 
+));
 
-} 
+}
 
 add_action('widgets_init', 'blank_widgets_init');
 
