@@ -272,6 +272,12 @@ p.p.l {
   padding: 20px 0 30px 0;
 }
 
+iframe {
+  width: 100%;
+  min-height: 300px;
+  padding: 20px 0;
+}
+
 .collaborators {
   padding: 20px 0 50px 0;
 }
@@ -377,5 +383,3 @@ p.p.l {
   background-color: #F4FAFE;
   padding: 40px 0px 40px 0px;
 }
-
-
