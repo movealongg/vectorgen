@@ -148,6 +148,10 @@ header ul li, footer ul li{
     text-align: center;
   }
 
+.hero-image img{
+  opacity: 0.25;
+}
+
 .centered {
     position: absolute;
     top: 50%;
