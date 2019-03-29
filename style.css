@@ -342,7 +342,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 
 .stage1_container {
-  background-color: #383E4B;
+  background-color: #174A7F;
   color: #F4FAFE;
 }
 
@@ -355,7 +355,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 
 .stage4_container {
-  background-color: #383E4B;
+  background-color: #174A7F;
   color: #F4FAFE;
 }
 
@@ -366,7 +366,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 .stage1 {
   color: #F4FAFE;
-  background-color: #383E4B;
+  background-color: #174A7F;
   padding-bottom: 50px;
 }
 
@@ -394,7 +394,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 .stage4 {
   color: #F4FAFE;
-  background-color: #383E4B;
+  background-color: #174A7F;
   padding: 50px 0px 50px 0px;
 }
 
