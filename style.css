@@ -160,6 +160,22 @@ header ul li, footer ul li{
   text-align: center;
 }
 
+button.button-primary.hero-button {
+    font-size: 1.5rem;
+    margin: 15px;
+}
+
+.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+    color: #FFF;
+    background-color: #40B2B1;
+    border-color: #40B2B1;
+}
+
+button.button-primary.hero-button:hover {
+    background-color: #174A7F;
+    border-color: #174A7F;
+}
+
 /* Learn More */
 
 h5.invest {
