@@ -118,10 +118,10 @@ footer .row {
 }
 
 ul#menu-footer-nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 15px;
 }
 
 header ul li, footer ul li{
