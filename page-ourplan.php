@@ -2,12 +2,12 @@
 
 <?php get_header(); ?>
 
+ <!--Stage 1 Section -->
 <div class="stage1_container">
     
     <div class="container ">
         <h5 class="our_plan">Our Plan</h5>
 
-    <!--Stage 1 Section -->
         <div class="row stage1">
             <div class="six columns">
                 <div class="stage1-text">
@@ -23,12 +23,11 @@
     </div>
 </div>
 
-
+ <!--Stage 2 Section -->
 <div class="stage2_container">
     
     <div class="container ">
 
-    <!--Stage 2 Section -->
         <div class="row stage2">
             <div class="six columns">
                 <div class="our-plan-stage2-image">
@@ -44,12 +43,11 @@
     </div>
 </div>
 
+<!--Stage 3 Section -->
 <div class="stage3_container">
     
     <div class="container ">
-        <h5 class="our_plan">Our Plan</h5>
 
-    <!--Stage 1 Section -->
         <div class="row stage3">
             <div class="six columns">
                 <div class="stage3-text">
@@ -65,11 +63,11 @@
     </div>
 </div>
 
+ <!--Stage 4 Section -->
 <div class="stage4_container">
     
     <div class="container ">
 
-    <!--Stage 2 Section -->
         <div class="row stage4">
             <div class="six columns">
                 <div class="our-plan-stage4-image">
@@ -85,12 +83,11 @@
     </div>
 </div>
 
+ <!--Stage 5 Section -->
 <div class="stage5_container">
     
     <div class="container ">
-        <h5 class="our_plan">Our Plan</h5>
 
-    <!--Stage 1 Section -->
         <div class="row stage5">
             <div class="six columns">
                 <div class="stage5-text">

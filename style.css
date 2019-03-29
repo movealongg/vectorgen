@@ -344,10 +344,18 @@ p.p.l {
   background-color: #383E4B;
   padding-bottom: 40px;
 }
-/* 
+
 .stage1-text p {
   color: #F4FAFE;
-} */
+}
+
+.stage1-text p {
+  color: #F4FAFE;
+}
+
+.stage4-text p {
+  color: #F4FAFE;
+}
 
 .stage2 {
   background-color: #F4FAFE;
