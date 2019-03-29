@@ -150,6 +150,7 @@ header ul li, footer ul li{
 
 .hero-image img{
   opacity: 0.25;
+  height: 90vh;
 }
 
 .centered {
