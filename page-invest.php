@@ -15,10 +15,10 @@
         <?php dynamic_sidebar('investment-potential'); ?>
       </div>
     </div>
-  </div>  
+  </div>
 
 
-<!-- Money SECTION --> 
+<!-- Money SECTION -->
 <h5 class="invest">Where Your Money Goes</h5>
   <div class="row money-section-learn-more ">
     <div class="one-third column">
@@ -60,8 +60,8 @@
 
 
 
-	
+
 </div>
 
 
-// <?php get_footer(); ?>
+<?php get_footer(); ?>
