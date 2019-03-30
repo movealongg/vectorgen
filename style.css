@@ -185,6 +185,10 @@ button.button-primary.hero-button:hover {
     border-color: #174A7F;
 }
 
+.home-image{
+  display: flex;
+}
+
 /* Learn More */
 
 h5.invest {
