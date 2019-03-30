@@ -15,13 +15,13 @@
   <div class="container">
     <!--Contact Form Section-->
     <div class="row contact-page">
-      <div class="six columns">
+      <div class="eleven columns">
         <?php dynamic_sidebar('contact-form'); ?>
       </div>
 
-      <div class="five columns">
+      <!-- <div class="five columns">
         <?php dynamic_sidebar('half-block'); ?>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
