@@ -131,8 +131,8 @@ function blank_widgets_init(){
     'description'   => 'Widget area for investment potential title on Learn More',
     'before_widget' => '<div class="investment-potential-title">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h5 class="widget-title">',
-    'after_title'   => '</h5>'
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
   ));
 
 // LEARN MORE - Investment Potential
