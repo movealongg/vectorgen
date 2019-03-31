@@ -457,6 +457,11 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   font-size: 1.5em;
 }
 
+.wpsm_counterbox {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 /* MEDIA QUERIES (HEADER_NAV) */
 
 /*@media (max-width: 1174px) {
