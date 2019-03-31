@@ -229,15 +229,19 @@ h5.widget-title {
 .money-color{
   background-color: #F4FAFE;
   margin-top: 60px;
-
-
+  padding-bottom: 67px;
 
 }
 
 .bu-color{
   background-color: #383E4B;
+  margin-top: 60px;
+  padding-bottom: 67px;
 
+}
 
+.learn-more-money-title {
+    padding-top: 64px;
 }
 
 

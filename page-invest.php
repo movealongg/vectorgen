@@ -19,7 +19,7 @@
     </div>
   </div>
 </div>  
-
+</div>
 <!-- Money SECTION --> 
 <div class="money-color">
 <div class="container invest-page">
