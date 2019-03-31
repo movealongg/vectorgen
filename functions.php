@@ -234,7 +234,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-// LEARN MORE - Investment Potential
+// LEARN MORE - another-content
   register_sidebar( array(
     'name'          => ('Another -Learn More'),
     'id'            => 'another-content',
@@ -245,7 +245,7 @@ function blank_widgets_init(){
     'after_title'   => '</h5>'
   ));
 
-// LEARN MORE - Investment Potential IMAGE
+// LEARN MORE - another IMAGE
   register_sidebar( array(
     'name'          => ('Another Image'),
     'id'            => 'another-image',
@@ -365,7 +365,6 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
 ));
-
 // ABOUT PAGE
   //Hero Image Widget
     register_sidebar( array(
@@ -421,25 +420,6 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
-));
-// ABOUT TEAM SECTION
-register_sidebar( array(
-  'name'          => ('About Team Text Section'),
-  'id'            => 'about-team-text',
-  'description'   => 'About Team Text Section',
-  'before_widget' => '<div class="about-team-text">',
-  'after_widget'  => '</div>',
-  'before_title'  => '<h3 class="about-team">',
-  'after_title'   =>  '</h3>'
-));
-register_sidebar( array(
-  'name'          => ('About Team Image Section'),
-  'id'            => 'about-team-image',
-  'description'   => 'About Team Image Section',
-  'before_widget' => '<div class="about-team-image">',
-  'after_widget'  => '</div>',
-  'before_title'  => '<h3 class="about-team">',
-  'after_title'   => '</h3>'
 ));
 
 //Social Media Widget
