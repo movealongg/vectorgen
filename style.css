@@ -135,6 +135,7 @@ header ul li, footer ul li{
 .eleven.columns.copy-footer {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .sfcm.sfsi_wicon:hover{

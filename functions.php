@@ -23,16 +23,6 @@ add_theme_support('custom-header', $custom_image_header);
 
 //Add Widget Areas
 function blank_widgets_init(){
-  //Social Media Widget
-  register_sidebar( array(
-    'name'          => ('Social Media Block'),
-    'id'            => 'social-media',
-    'description'   => 'Widget area for social media in footer',
-    'before_widget' => '<div class="social-media">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
 
   //Hero Image Widget
   register_sidebar( array(
@@ -334,6 +324,17 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
+));
+
+//Social Media Widget
+register_sidebar( array(
+  'name'          => ('Social Media Block'),
+  'id'            => 'social-media',
+  'description'   => 'Widget area for social media in footer',
+  'before_widget' => '<div class="social-media">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="widget-title">',
+  'after_title'   => '</h3>'
 ));
 }
 
