@@ -48,6 +48,8 @@
     </div>
   </div>
 
+  <canvas id="chart-area" style="display: block; height: 236px; width: 473px;" width="946" height="472" class="chartjs-render-monitor"></canvas>
+
 
 
 
