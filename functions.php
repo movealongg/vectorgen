@@ -433,9 +433,9 @@ register_sidebar( array(
   'after_title'   =>  '</h3>'
 ));
 register_sidebar( array(
-  'name'          => ('About Team Text Section'),
+  'name'          => ('About Team Image Section'),
   'id'            => 'about-team-image',
-  'description'   => 'About Team Text Section',
+  'description'   => 'About Team Image Section',
   'before_widget' => '<div class="about-team-image">',
   'after_widget'  => '</div>',
   'before_title'  => '<h3 class="about-team">',
