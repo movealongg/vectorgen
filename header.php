@@ -13,8 +13,8 @@
   <body>
 
     <header>
-      <div class="container">
-        <div class="row navvv">
+      <div class="container navvv">
+        <div class="row">
           <div class="five columns header-image">
             <?php if(get_header_image() == ''){?>
               <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
