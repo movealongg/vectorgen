@@ -70,15 +70,16 @@
         <?php dynamic_sidebar('another-title'); ?>
       </div>
   <div class="row">
+    <div class="six columns">
+      <div class="">
+        <?php dynamic_sidebar('another-image'); ?>
+      </div>
     
     <div class="six columns">
       <div class="">
         <?php dynamic_sidebar('another-content'); ?>
       </div>
-      <div class="six columns">
-      <div class="">
-        <?php dynamic_sidebar('another-image'); ?>
-      </div>
+      
     </div>
     </div>
   </div>
