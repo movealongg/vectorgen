@@ -201,12 +201,9 @@ button.button-primary.hero-button:hover {
 
 /* Learn More */
 
-h5.invest {
+h3.invest {
     text-align: center;
     margin-top: 42px;
-    margin-bottom: 0px;
-    font-weight: bold;
-    font-size: 4rem;
     margin-bottom: 50px;
 }
 
@@ -215,15 +212,32 @@ canvas#budget{
   margin-left: 50%;
 }
 
+h5.widget-title {
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+.iv-color{
+  background-color: #c7d6e0;
+  padding-top: 30px;
+
+}
+
+.money-color{
+  background-color: #F4FAFE;
+
+
+
+}
+
+.bu-color{
+  background-color: #383E4B;
+
+
+}
 
 
 /* Blog Page */
-h1.blog {
-    text-align: center;
-    margin-top: 42px;
-    margin-bottom: 0px;
-    font-weight: bold;
-}
 
 .one-third.column.posts {
     margin-left: 25px;
