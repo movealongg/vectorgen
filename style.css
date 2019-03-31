@@ -462,6 +462,16 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   margin-bottom: 0px !important;
 }
 
+.about_team {
+  text-align: center;
+  font-size: 2em;
+  padding-top: 30px;
+}
+
+.about-bio {
+  background-color: #c7d6e0;
+}
+
 /* MEDIA QUERIES (HEADER_NAV) */
 
 *@media (max-width: 1174px) {

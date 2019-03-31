@@ -421,6 +421,28 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
 ));
+<<<<<<< HEAD
+=======
+// ABOUT TEAM SECTION
+register_sidebar( array(
+  'name'          => ('About Team Text Section'),
+  'id'            => 'about-team-text',
+  'description'   => 'About Team Text Section',
+  'before_widget' => '<div class="about-team-text">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h5 class="about-team">',
+  'after_title'   =>  '</h5>'
+));
+register_sidebar( array(
+  'name'          => ('About Team Image Section'),
+  'id'            => 'about-team-image',
+  'description'   => 'About Team Image Section',
+  'before_widget' => '<div class="about-team-image">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="about-team">',
+  'after_title'   => '</h3>'
+));
+>>>>>>> d9c38ec8f0adf821134fdf44d3dfbced2d3609dc
 
 //Social Media Widget
 register_sidebar( array(
