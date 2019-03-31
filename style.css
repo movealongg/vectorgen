@@ -211,9 +211,9 @@ h3.invest {
       margin-bottom: 26px;
 }
 
-canvas#mydough {
-    margin-left: 50%;
-    margin-right: 50%;
+canvas{
+  width: 1522px;
+  height: 1000px;
 }
 
 h5.widget-title {
