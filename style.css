@@ -177,11 +177,14 @@ h5.widget-title {
 
 .iv-color{
   background-color: #c7d6e0;
+  padding: 30px;
 
 }
 
 .money-color{
-  background-color: red;
+  background-color: #F4FAFE;
+  padding: 30px;
+
 
 }
 
