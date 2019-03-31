@@ -442,6 +442,14 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   padding: 50px 0px 50px 0px;
 }
 
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #174A7F;
+}
+
 /* ABOUT PAGE */
 
 .inner {
