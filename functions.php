@@ -223,6 +223,39 @@ function blank_widgets_init(){
       'after_title'   =>  '</h5>'
     ));
 
+// LEARN MORE - Another TITLE
+  register_sidebar( array(
+    'name'          => ('Another - TITLE'),
+    'id'            => 'another-title',
+    'description'   => 'Widget area for another title on Learn More',
+    'before_widget' => '<div class="another-title">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+// LEARN MORE - Investment Potential
+  register_sidebar( array(
+    'name'          => ('Another -Learn More'),
+    'id'            => 'another-content',
+    'description'   => 'Widget area for another content on Learn More',
+    'before_widget' => '<div class="another-content">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h5 class="widget-title">',
+    'after_title'   => '</h5>'
+  ));
+
+// LEARN MORE - Investment Potential IMAGE
+  register_sidebar( array(
+    'name'          => ('Another Image'),
+    'id'            => 'another-image',
+    'description'   => 'Widget area for another IMAGE on Learn More',
+    'before_widget' => '<div class="another-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h5 class="widget-title">',
+    'after_title'   => '</h5>'
+  ));    
+
   // OUR PLAN - STAGE 1
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1'),
