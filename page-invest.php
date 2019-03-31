@@ -74,7 +74,8 @@
 
 
 
-
+<script type="text/javascript" src="$PATH_TO_D3JS"></script>
+<script type="text/javascript" src="$PATH_TO_UVCHARTS"></script>
 
 </div>
 
