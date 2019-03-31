@@ -102,16 +102,16 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-// Contact Half Text Block section
-  register_sidebar( array(
-      'name'          => ('Half Block'),
-      'id'            => 'half-block',
-      'description'   => 'Widget area for half text block',
-      'before_widget' => '<div class="half-block">',
-      'after_widget'  => '</div>',
-      'before_title'  => '<h3 class="widget-title">',
-      'after_title'   => '</h3>'
-    ));
+// // Contact Half Text Block section
+//   register_sidebar( array(
+//       'name'          => ('Half Block'),
+//       'id'            => 'half-block',
+//       'description'   => 'Widget area for half text block',
+//       'before_widget' => '<div class="half-block">',
+//       'after_widget'  => '</div>',
+//       'before_title'  => '<h3 class="widget-title">',
+//       'after_title'   => '</h3>'
+//     ));
 
 //Collaborators Section
   register_sidebar( array(
