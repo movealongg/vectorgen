@@ -20,6 +20,7 @@
 
 <!-- Money SECTION --> 
 <div class="money-color">
+<div class="container invest-page">
 <h3 class="invest">Where Your Money Goes</h3>
 
   <div class="row money-section-learn-more ">
@@ -40,9 +41,11 @@
     </div>
   </div>
   </div>
+  </div>
 
 <!-- Budget SECTION -->
 <div class="bu-color">
+<div class="container invest-page">
 <h3 class="invest">Budget</h3>
   <div class="row budget-section">
     <div class="twelve columns">
@@ -50,6 +53,7 @@
         <?php dynamic_sidebar('learn-more-budget'); ?>
       </div>
     </div>
+  </div>
   </div>
   </div>
 
