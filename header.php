@@ -19,7 +19,7 @@
             <?php if(get_header_image() == ''){?>
               <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
             }else{?>
-              <a href="<?php $url = home_url('/'); echo $url; ?>"><img src="<?php header_image(); ?>" height="<?php echo get_customer_header() -> height; ?>" width="<?php echo get_customer_header->width; ?>" alt="Logo" /></a>
+              <a href="<?php $url = home_url('/'); echo $url; ?>"><img src="<?php header_image(); ?>" height="<?php echo get_custom_header() -> height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="Logo" /></a><?php
             } ?>
           </div>
 
