@@ -65,6 +65,7 @@
 
 <!-- Another SECTION -->
 <div class="money-color">
+<div class="container invest-page">
 <div class="invest">
         <?php dynamic_sidebar('another-title'); ?>
       </div>
@@ -82,6 +83,7 @@
     </div>
   </div>
 </div>  
+</div>
 
 
 
