@@ -443,6 +443,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 
 .triangle-down {
+  margin: auto;
 	width: 0;
 	height: 0;
 	border-left: 25px solid transparent;
