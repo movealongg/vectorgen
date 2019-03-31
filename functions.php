@@ -234,7 +234,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-// LEARN MORE - another-content
+// LEARN MORE - Investment Potential
   register_sidebar( array(
     'name'          => ('Another -Learn More'),
     'id'            => 'another-content',
@@ -245,7 +245,7 @@ function blank_widgets_init(){
     'after_title'   => '</h5>'
   ));
 
-// LEARN MORE - another IMAGE
+// LEARN MORE - Investment Potential IMAGE
   register_sidebar( array(
     'name'          => ('Another Image'),
     'id'            => 'another-image',
@@ -365,6 +365,7 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
 ));
+
 // ABOUT PAGE
   //Hero Image Widget
     register_sidebar( array(
@@ -421,8 +422,6 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
 ));
-<<<<<<< HEAD
-=======
 // ABOUT TEAM SECTION
 register_sidebar( array(
   'name'          => ('About Team Text Section'),
@@ -442,7 +441,6 @@ register_sidebar( array(
   'before_title'  => '<h3 class="about-team">',
   'after_title'   => '</h3>'
 ));
->>>>>>> d9c38ec8f0adf821134fdf44d3dfbced2d3609dc
 
 //Social Media Widget
 register_sidebar( array(
