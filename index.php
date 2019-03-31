@@ -4,10 +4,10 @@
 
 	<div class="container blog">
 		<h1 class="blog">Industry News</h1>
-	
+
 			<div class="row blog-row">
-		
-			<?php 
+
+			<?php
 
 				if(have_posts()){
 					while (have_posts()){
@@ -19,14 +19,14 @@
 							<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
 							<p class="p l"><?php echo "Author: " . get_the_author(); ?></p>
 						</div>
-						
+
 			     <?php	} //ends while loop
 				} // end if statement
 			?>
-			</div> 
+			</div>
 	</div>
 
 
 
 
-// <?php get_footer(); ?>
+<?php get_footer(); ?>

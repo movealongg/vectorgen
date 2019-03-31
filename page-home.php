@@ -5,7 +5,7 @@
 <div class="hero-section hero">
 			<?php dynamic_sidebar('hero-image'); ?>
 			<div class="centered">
-          		<h1><?php the_title(); ?></h1>
+          		<?php dynamic_sidebar('hero-image-text'); ?>
         	</div>
 </div>
 
@@ -18,6 +18,10 @@
 	    </div>
 	  </div>
 	</div>
+</div>
+
+<div class="home-image-section">
+		<?php dynamic_sidebar('home-image'); ?>
 </div>
 
 
