@@ -207,6 +207,9 @@ h3.invest {
     margin-bottom: 50px;
 }
 
+.invest{
+      margin-bottom: 26px;
+}
 
 canvas#budget{
   margin-left: 50%;
@@ -225,6 +228,7 @@ h5.widget-title {
 
 .money-color{
   background-color: #F4FAFE;
+  margin-top: 60px;
 
 
 
