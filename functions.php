@@ -365,6 +365,7 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="our-plan">',
       'after_title'   => '</h3>'
 ));
+
 // ABOUT PAGE
   //Hero Image Widget
     register_sidebar( array(
@@ -420,6 +421,25 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
+));
+// ABOUT TEAM SECTION
+register_sidebar( array(
+  'name'          => ('About Team Text Section'),
+  'id'            => 'about-team-text',
+  'description'   => 'About Team Text Section',
+  'before_widget' => '<div class="about-team-text">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="about-team">',
+  'after_title'   =>  '</h3>'
+));
+register_sidebar( array(
+  'name'          => ('About Team Text Section'),
+  'id'            => 'about-team-image',
+  'description'   => 'About Team Text Section',
+  'before_widget' => '<div class="about-team-image">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="about-team">',
+  'after_title'   => '</h3>'
 ));
 
 //Social Media Widget

@@ -28,5 +28,19 @@
 	</div>
 </div>
 
+<div class="container">
+	<h5 class="about_team">About the Team</h5>
+	
+	<div class="row">
+		<div class="three columns">
+			<?php dynamic_sidebar('about-team-image'); ?>
+		</div>
+		<div class="nine columns">
+			<?php dynamic_sidebar('about-team-text'); ?>
+		</div>
+	</div>
+</div>
+
+
 
 <?php get_footer(); ?>
