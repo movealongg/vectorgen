@@ -70,15 +70,15 @@
 <div class="invest">
         <?php dynamic_sidebar('another-title'); ?>
       </div>
-  <div class="row invest-section">
-    <div class="six columns">
-      <div class="invest-learn-more-image">
-        <?php dynamic_sidebar('another-image'); ?>
-      </div>
-    </div>
     <div class="six columns">
       <div class="invest-learn-more">
         <?php dynamic_sidebar('another-content'); ?>
+      </div>
+    </div>
+    <div class="row invest-section">
+    <div class="six columns">
+      <div class="invest-learn-more-image">
+        <?php dynamic_sidebar('another-image'); ?>
       </div>
     </div>
   </div>
