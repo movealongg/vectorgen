@@ -482,12 +482,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
-/* @media (max-width: 1174px) {
+ @media (max-width: 1200px) {
   .navvv {
     display: none;
   }
 
-  } */
+  } 
 
 
 
