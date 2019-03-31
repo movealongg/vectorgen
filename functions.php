@@ -119,8 +119,8 @@ function blank_widgets_init(){
     'description'   => 'Widget area for investment potential on Learn More',
     'before_widget' => '<div class="investment-potential">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
+    'before_title'  => '<h5 class="widget-title">',
+    'after_title'   => '</h5>'
   ));
 
 // LEARN MORE - Investment Potential IMAGE
@@ -130,8 +130,8 @@ function blank_widgets_init(){
     'description'   => 'Widget area for investment potential IMAGE on Learn More',
     'before_widget' => '<div class="investment-potential-image">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
+    'before_title'  => '<h5 class="widget-title">',
+    'after_title'   => '</h5>'
   ));
 
 //  LEARN MORE - Money Area 1
@@ -141,8 +141,8 @@ function blank_widgets_init(){
       'description'   => 'Learn More - Money 1.',
       'before_widget' => '<div class="learn-more-money-1">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
     ));
 
  // LEARN MORE - Money Area 2
@@ -152,8 +152,8 @@ function blank_widgets_init(){
       'description'   => 'Learn More - Money 2.',
       'before_widget' => '<div class="learn-more-money-2">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
     ));
 
 // LEARN MORE - Money Area 3
@@ -163,8 +163,8 @@ function blank_widgets_init(){
       'description'   => 'Learn More - Money 3.',
       'before_widget' => '<div class="learn-more-money-3">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
     ));
 
 // LEARN MORE - BUDGET
@@ -174,8 +174,8 @@ function blank_widgets_init(){
       'description'   => 'Learn More - Budget Section.',
       'before_widget' => '<div class="learn-more-budget">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h4 class="widget-title">',
-      'after_title'   =>  '</h4>'
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
     ));
 
   // OUR PLAN - STAGE 1
