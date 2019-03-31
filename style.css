@@ -212,8 +212,9 @@ h3.invest {
 }
 
 canvas{
-  width: 1522px;
-  height: 1000px;
+    display: block;
+    height: 522px;
+    width: 761px;
 }
 
 h5.widget-title {
