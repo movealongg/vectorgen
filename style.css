@@ -170,6 +170,11 @@ canvas#budget{
   margin-left: 50%;
 }
 
+h5.widget-title {
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
 
 
 /* Blog Page */
