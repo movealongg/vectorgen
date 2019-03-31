@@ -3,7 +3,9 @@
 <?php get_header(); ?>
 
 	<div class="container blog">
-		<h1 class="blog">Industry News</h1>
+		<div class="row">
+        	<?php dynamic_sidebar('blog-title'); ?>
+      	</div>
 
 			<div class="row blog-row">
 

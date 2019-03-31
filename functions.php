@@ -21,6 +21,18 @@ add_theme_support('custom-header', $custom_image_header);
 // BLOG PICTURES
 	add_theme_support('post-thumbnails');
 
+ //BLOG Title
+  register_sidebar( array(
+    'name'          => ('Blog Title'),
+    'id'            => 'blog-title',
+    'description'   => 'Blog title on news page',
+    'before_widget' => '<div class="hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));  
+
+
 //Add Widget Areas
 function blank_widgets_init(){
 
