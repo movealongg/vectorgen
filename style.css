@@ -478,6 +478,14 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 	border-top: 50px solid #174A7F;
 }
 
+.arrow-container-3 {
+  background-color: #c7d6e0;
+}
+
+.arrow-container-3 {
+  background-color: #174A7F;
+}
+
 /* ABOUT PAGE */
 
 .inner {

@@ -23,7 +23,7 @@
     </div>
 </div>
 
-<div class="triangle-down"></div>
+<div class="triangle-down-1"></div>
 
  <!--Stage 2 Section -->
 <div class="stage2_container">
@@ -45,7 +45,9 @@
     </div>
 </div>
 
-<div class="triangle-down-2"></div>
+<div class="arrow-container-2">
+    <div class="triangle-down-2"></div>
+</div>
 
 <!--Stage 3 Section -->
 <div class="stage3_container">
@@ -67,7 +69,9 @@
     </div>
 </div>
 
-<div class="triangle-down-3"></div>
+<div class="arrow-container-3">
+    <div class="triangle-down-3"></div>
+</div>
 
  <!--Stage 4 Section -->
 <div class="stage4_container">
