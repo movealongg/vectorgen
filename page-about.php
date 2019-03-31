@@ -29,7 +29,7 @@
 </div>
 
 <div class="container">
-	<h5 class="about_team">About the Team</h5>
+	<h4 class="about_team">About the Team</h4>
 	
 	<div class="row">
 		<div class="three columns">
