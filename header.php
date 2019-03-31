@@ -16,7 +16,11 @@
       <div class="container">
         <div class="row">
           <div class="five columns header-image">
-            <a href="<?php echo bloginfo('url'); ?>"><img src ="http://rcolecreative.com/vectorgen/wp-content/uploads/2019/03/logo-1.png" class="logo" alt="Home"></a>
+            <?php if(get_header_image() == ''){?>
+              <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
+            }else{?>
+              <a href="<?php $url = home_url('/'); echo $url; ?>"><img src="<?php header_image(); ?>" height="<?php echo get_customer_header() -> height; ?>" width="<?php echo get_customer_header->width; ?>" alt="Logo" /></a>
+            } ?>
           </div>
 
           <div class="seven columns">
