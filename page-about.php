@@ -28,7 +28,7 @@
 	</div>
 </div>
 
-<div class="container">
+<div class="container about-bio">
 	<h4 class="about_team">About the Team</h4>
 	
 	<div class="row">

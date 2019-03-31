@@ -467,6 +467,10 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   font-size: 2em;
 }
 
+.about-bio {
+  background-color: #c7d6e0;
+}
+
 /* MEDIA QUERIES (HEADER_NAV) */
 
 /*@media (max-width: 1174px) {
