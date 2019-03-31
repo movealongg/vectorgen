@@ -9,6 +9,15 @@ function custom_menus(){
 }
 add_action('init', 'custom_menus');
 
+//Custom header
+$custom_image_header = array(
+  'width'   => 100,
+  'height'  => 78,
+  'uploads' => true,
+);
+
+add_theme_support('custom-header', $custom_image_header);
+
 // BLOG PICTURES
 	add_theme_support('post-thumbnails');
 
