@@ -23,6 +23,8 @@
     </div>
 </div>
 
+<div class="triangle-down"></div>
+
  <!--Stage 2 Section -->
 <div class="stage2_container">
     
