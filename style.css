@@ -465,6 +465,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 .about_team {
   text-align: center;
   font-size: 2em;
+  padding-top: 30px;
 }
 
 .about-bio {
