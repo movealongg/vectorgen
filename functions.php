@@ -124,6 +124,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+// LEARN MORE - Investment Potential TITLE
+  register_sidebar( array(
+    'name'          => ('Investment Potential - TITLE'),
+    'id'            => 'investment-potential-title',
+    'description'   => 'Widget area for investment potential title on Learn More',
+    'before_widget' => '<div class="investment-potential-title">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h5 class="widget-title">',
+    'after_title'   => '</h5>'
+  ));
+
 // LEARN MORE - Investment Potential
   register_sidebar( array(
     'name'          => ('Investment Potential'),
@@ -145,6 +156,17 @@ function blank_widgets_init(){
     'before_title'  => '<h5 class="widget-title">',
     'after_title'   => '</h5>'
   ));
+
+//  LEARN MORE - Money TITLE
+    register_sidebar( array(
+      'name'          => ('Money Section - TITLE'),
+      'id'            => 'learn-more-money-title',
+      'description'   => 'Learn More - Money title.',
+      'before_widget' => '<div class="learn-more-money-title">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
+    ));  
 
 //  LEARN MORE - Money Area 1
     register_sidebar( array(
@@ -178,6 +200,17 @@ function blank_widgets_init(){
       'before_title'  => '<h5 class="widget-title">',
       'after_title'   =>  '</h5>'
     ));
+
+// LEARN MORE - BUDGET TITLE
+    register_sidebar( array(
+      'name'          => ('Budget Section - Title'),
+      'id'            => 'learn-more-budget-title',
+      'description'   => 'Learn More - Budget Section TITLE.',
+      'before_widget' => '<div class="learn-more-budget-title">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h5 class="widget-title">',
+      'after_title'   =>  '</h5>'
+    ));    
 
 // LEARN MORE - BUDGET
     register_sidebar( array(

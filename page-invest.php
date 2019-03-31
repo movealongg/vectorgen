@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 <div class="iv-color">
 <div class="container invest-page">
-<h3 class="invest">Investment Potential</h3>
+<div class="invest">
+        <?php dynamic_sidebar('investment-potential-title'); ?>
+      </div>
 
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
@@ -21,7 +23,9 @@
 <!-- Money SECTION --> 
 <div class="money-color">
 <div class="container invest-page">
-<h3 class="invest">Where Your Money Goes</h3>
+<div class="invest">
+        <?php dynamic_sidebar('learn-more-money-title'); ?>
+      </div>
 
   <div class="row money-section-learn-more ">
     <div class="one-third column">
@@ -46,7 +50,9 @@
 <!-- Budget SECTION -->
 <div class="bu-color">
 <div class="container invest-page">
-<h3 class="invest">Budget</h3>
+<div class="invest">
+        <?php dynamic_sidebar('learn-more-budget-title'); ?>
+      </div>
   <div class="row budget-section">
     <div class="twelve columns">
       <div class="budget-learn-more">
