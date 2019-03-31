@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+<div class="iv-color">
 <div class="container invest-page">
 <h3 class="invest">Investment Potential</h3>
 
@@ -16,6 +16,7 @@
       </div>
     </div>
   </div>
+</div>  
 
 <!-- Money SECTION --> 
 <h3 class="invest">Where Your Money Goes</h3>
@@ -47,8 +48,6 @@
       </div>
     </div>
   </div>
-
-  <canvas id="chart-area" style="display: block; height: 236px; width: 473px;" width="946" height="472" class="chartjs-render-monitor"></canvas>
 
 
 
