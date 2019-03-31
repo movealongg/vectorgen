@@ -10,7 +10,7 @@
     <?php wp_head(); ?>
   </head>
 
-  <body class="navvv">
+  <body>
 
     <header>
       <div class="container">
