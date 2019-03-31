@@ -132,6 +132,11 @@ header ul li, footer ul li{
   margin: 0;
 }
 
+.eleven.columns.copy-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Widgets */
 .widget-title{
   text-align: center;
