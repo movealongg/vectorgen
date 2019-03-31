@@ -462,6 +462,11 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   margin-bottom: 0px !important;
 }
 
+.about_team {
+  text-align: center;
+  font-size: 2em;
+}
+
 /* MEDIA QUERIES (HEADER_NAV) */
 
 /*@media (max-width: 1174px) {
