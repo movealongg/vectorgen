@@ -12,11 +12,19 @@
 			<?php dynamic_sidebar('image-about'); ?>
 		<!-- </div> -->
 	</div>
+
 	<div class="three columns">
-		<?php dynamic_sidebar('about-counter-one'); ?>	
+		<div class="row">
+			<?php dynamic_sidebar('about-counter-one'); ?>
+			<?php dynamic_sidebar('about-counter-two'); ?>		
+		</div>
 	</div>
+
 	<div class="three columns">
-		<?php dynamic_sidebar('about-counter-two'); ?>	
+		<div class="row">
+			<?php dynamic_sidebar('about-counter-three'); ?>
+			<?php dynamic_sidebar('about-counter-four'); ?>		
+		</div>
 	</div>
 </div>
 
