@@ -64,29 +64,26 @@
   </div>
 
 <!-- Another SECTION -->
+
 <div class="money-color">
 <div class="container invest-page">
 <div class="invest">
         <?php dynamic_sidebar('another-title'); ?>
       </div>
-  <div class="row">
+  <div class="row invest-section">
     <div class="six columns">
-      <div class="">
+      <div class="invest-learn-more-image">
         <?php dynamic_sidebar('another-image'); ?>
       </div>
-    
+    </div>
     <div class="six columns">
-      <div class="">
+      <div class="invest-learn-more">
         <?php dynamic_sidebar('another-content'); ?>
       </div>
-      
-    </div>
     </div>
   </div>
 </div>  
 </div>
-
-
 
 
 
