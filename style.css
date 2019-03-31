@@ -138,7 +138,7 @@ header ul li, footer ul li{
     align-items: center;
 }
 
-.sfcm.sfsi_wicon:hover{
+footer img:hover{
   opacity: 0.5;
 }
 
