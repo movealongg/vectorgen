@@ -456,6 +456,10 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   font-size: 1.5em;
 }
 
+.wpsm_counterbox{
+  margin: 0;
+}
+
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
