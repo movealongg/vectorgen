@@ -45,6 +45,8 @@
     </div>
 </div>
 
+<div class="triangle-down-2"></div>
+
 <!--Stage 3 Section -->
 <div class="stage3_container">
     
@@ -65,6 +67,8 @@
     </div>
 </div>
 
+<div class="triangle-down-3"></div>
+
  <!--Stage 4 Section -->
 <div class="stage4_container">
     
@@ -84,6 +88,8 @@
         </div> 
     </div>
 </div>
+
+<div class="triangle-down-4"></div>
 
  <!--Stage 5 Section -->
 <div class="stage5_container">
