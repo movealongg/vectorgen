@@ -370,6 +370,24 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
 ));
+    register_sidebar( array(
+      'name'          => ('About Counters Three'),
+      'id'            => 'about-counter-three',
+      'description'   => 'Counters on About Page',
+      'before_widget' => '<div class="about-counter">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
+    register_sidebar( array(
+      'name'          => ('About Counters Four'),
+      'id'            => 'about-counter-four',
+      'description'   => 'Counters on About Page',
+      'before_widget' => '<div class="about-counter">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+));
 
 //Social Media Widget
 register_sidebar( array(
