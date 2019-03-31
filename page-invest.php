@@ -72,11 +72,11 @@
   <div class="row">
     
     <div class="six columns">
-      <div class="invest-learn-more">
+      <div class="">
         <?php dynamic_sidebar('another-content'); ?>
       </div>
       <div class="six columns">
-      <div class="invest-learn-more-image">
+      <div class="">
         <?php dynamic_sidebar('another-image'); ?>
       </div>
     </div>
