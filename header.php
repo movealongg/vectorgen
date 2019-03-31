@@ -25,7 +25,7 @@
             } ?>
           </div>
 
-          <div class="seven columns">
+          <div class="seven columns navvv">
             <?php wp_nav_menu(array(
               'theme_location' => 'header-menu',
               'container-class' => 'menu-header'
