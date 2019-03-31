@@ -10,10 +10,10 @@
     <?php wp_head(); ?>
   </head>
 
-  <body>
+  <body class="navvv">
 
     <header>
-      <div class="container navvv">
+      <div class="container">
         <div class="row">
           <div class="five columns header-image">
             <?php if(get_header_image() == ''){?>
