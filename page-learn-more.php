@@ -3,9 +3,9 @@
 <div class="container">
 
 <h1>HELLLO INVEST PAGE</h1>
-	
+
 </div>
 
 
 
-// <?php get_footer(); ?>
+<?php get_footer(); ?>
