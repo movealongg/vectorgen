@@ -7,7 +7,9 @@
           'container-class' => 'menu-footer'
         ));?>
       </div>
+    </div>
 
+    <div class="row">
       <div class="eleven columns copy-footer">
         <p>Copyright &copy; <?php echo date("Y"); echo " "; echo bloginfo('name'); ?></p>
         <?php dynamic_sidebar('social-media'); ?>

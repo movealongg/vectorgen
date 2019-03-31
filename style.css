@@ -137,6 +137,10 @@ header ul li, footer ul li{
     justify-content: space-between;
 }
 
+.sfcm.sfsi_wicon:hover{
+  opacity: 0.5;
+}
+
 /* Widgets */
 .widget-title{
   text-align: center;
