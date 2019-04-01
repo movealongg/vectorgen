@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-	<div class="container blog  animated fadeIn duration2 ">
+	<div class="container blog">
 		<div class="row">
         	<?php dynamic_sidebar('blog-title'); ?>
       	</div>
@@ -14,7 +14,7 @@
 				if(have_posts()){
 					while (have_posts()){
 						the_post(); ?>
-						<div class="one-third column posts">
+						<div class="one-third column posts animated fadeIn duration2 ">
 
 							<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a>
 							<h3><a href="<?php the_permalink(); ?>" class = "blog-title" ><?php the_title();?></a></h3>
