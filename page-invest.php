@@ -30,17 +30,17 @@
 
   <div class="row money-section-learn-more ">
     <div class="one-third column">
-      <div class="money-1">
+      <div class="money-1 money-text">
         <?php dynamic_sidebar('learn-more-money-1'); ?>
       </div>
     </div>
     <div class="one-third column">
-       <div class="money-2">
+       <div class="money-2 money-text">
         <?php dynamic_sidebar('learn-more-money-2'); ?>
       </div>
     </div>
     <div class="one-third column">
-       <div class="money-3">
+       <div class="money-3 money-text">
         <?php dynamic_sidebar('learn-more-money-3'); ?>
       </div>
     </div>
