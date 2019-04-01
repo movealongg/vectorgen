@@ -377,6 +377,15 @@ function blank_widgets_init(){
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
 ));
+  register_sidebar( array(
+    'name'          => ('Hero Image Text Box'),
+    'id'            => 'hero-image-about-text',
+    'description'   => 'Text Box on Hero Image',
+    'before_widget' => '<div class="hero-image-about-text">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
     register_sidebar( array(
       'name'          => ('Image About'),
       'id'            => 'image-about',

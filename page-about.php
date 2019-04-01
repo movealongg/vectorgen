@@ -2,8 +2,9 @@
 
 <div class="hero-section hero">
 	<?php dynamic_sidebar('hero-image-about'); ?>
-		<div class="centered">
-        </div>
+	<div class="five columns">
+		<?php dynamic_sidebar('hero-image-about-text'); ?>
+	</div>
 </div>
 
 <div class="row about-page">
