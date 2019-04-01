@@ -199,6 +199,10 @@ button.button-primary.hero-button:hover {
   display: flex;
 }
 
+img.image.wp-image-178.attachment-full.size-full {
+    min-width: 100%;
+}
+
 /* Learn More */
 
 h3.invest {
