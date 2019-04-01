@@ -383,7 +383,7 @@ function blank_widgets_init(){
     'description'   => 'Text Box on Hero Image',
     'before_widget' => '<div class="hero-image-about-text">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
+    'before_title'  => '<h3 class="about-text-title">',
     'after_title'   => '</h3>'
   ));
     register_sidebar( array(
@@ -457,6 +457,17 @@ register_sidebar( array(
   'id'            => 'social-media',
   'description'   => 'Widget area for social media in footer',
   'before_widget' => '<div class="social-media">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="widget-title">',
+  'after_title'   => '</h3>'
+));
+
+// 404 WIDGET 
+register_sidebar( array(
+  'name'          => ('404 Text Widget'),
+  'id'            => 'not-found-widget',
+  'description'   => 'Widget for 404 Area',
+  'before_widget' => '<div class="not-found">',
   'after_widget'  => '</div>',
   'before_title'  => '<h3 class="widget-title">',
   'after_title'   => '</h3>'
