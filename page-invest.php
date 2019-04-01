@@ -1,4 +1,5 @@
 <?php get_header(); ?>
+<div class="top">
 <div class="iv-color">
 <div class="container invest-page">
 <div class="invest">
@@ -95,6 +96,7 @@
 
 
 
+</div>
 </div>
 
 
