@@ -492,6 +492,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   .navvv {
     display: none;
   }
+  .top {
+    margin-top: 70px;
+}
 
   } 
 
