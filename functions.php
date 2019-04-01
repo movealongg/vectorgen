@@ -463,6 +463,16 @@ register_sidebar( array(
 ));
 
 // 404 WIDGET 
+
+register_sidebar( array(
+  'name'          => ('Hero Image 404'),
+  'id'            => 'hero-image-not-found',
+  'description'   => 'Hero image on 404 page',
+  'before_widget' => '<div class="hero-image-not-found">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="not-found-image">',
+  'after_title'   => '</h3>'
+));
 register_sidebar( array(
   'name'          => ('404 Text Widget'),
   'id'            => 'not-found-widget',
