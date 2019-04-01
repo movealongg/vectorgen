@@ -503,6 +503,10 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   text-align: center;
 }
 
+.about-text-title {
+  margin: 20px;
+}
+
 .right {
   position: absolute;
   top: 50%;
