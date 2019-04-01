@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-	<div class="container blog">
+	<div class="container blog  animated fadeIn duration2 ">
 		<div class="row">
         	<?php dynamic_sidebar('blog-title'); ?>
       	</div>
