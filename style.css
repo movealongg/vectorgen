@@ -538,6 +538,13 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 .about-bio {
   background-color: #c7d6e0;
 }
+ 
+/* 404 Page */
+
+.not-found {
+  text-align: center;
+}
+
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
