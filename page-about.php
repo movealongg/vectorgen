@@ -3,7 +3,7 @@
 <div class="hero-section hero">
 	<?php dynamic_sidebar('hero-image-about'); ?>
 	<div class="five columns">
-		<?php dynamic_sidebar('hero-image-text'); ?>
+		<?php dynamic_sidebar('hero-image-about-text'); ?>
 	</div>
 </div>
 
