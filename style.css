@@ -502,11 +502,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   background-color: #F4FAFE;
   text-align: center;
   padding: 40px;
-  border: 3px solid #383e4b;
+  border: 2px solid #383e4b;
 }
 
 .about-text-title {
-  padding: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 
 .right {
