@@ -442,13 +442,50 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   padding: 50px 0px 50px 0px;
 }
 
-.triangle-down {
-	width: 0;
-	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-top: 50px solid #174A7F;
+.triangle-down-1 {
+  margin: auto;
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid #174A7F;
 }
+
+.triangle-down-2 {
+  margin: auto;
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid #F4FAFE;
+}
+
+.triangle-down-3 {
+  margin: auto;
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid #c7d6e0;
+}
+
+.triangle-down-4 {
+  margin: auto;
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid #174A7F;
+}
+
+.arrow-container-2 {
+  background-color: #c7d6e0;
+}
+
+.arrow-container-3 {
+  background-color: #174A7F;
+}
+
 
 /* ABOUT PAGE */
 
