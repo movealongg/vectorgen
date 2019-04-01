@@ -508,6 +508,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 .about-text-title {
   padding-right: 40px;
   padding-left: 40px;
+  margin-bottom: 20px !important;
 }
 
 .right {
