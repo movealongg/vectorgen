@@ -1,5 +1,9 @@
 <?php get_header(); ?>
 
-<?php dynamic_sidebar('not-found-widget'); ?>
+<div class="container">
+
+    <?php dynamic_sidebar('not-found-widget'); ?>
+    
+</div>
 
 <?php get_footer(); ?>
