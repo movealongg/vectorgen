@@ -501,11 +501,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   float: right;
   background-color: #F4FAFE;
   text-align: center;
-  padding: 20px;
+  padding: 40px;
+  border: 3px solid #383e4b;
 }
 
 .about-text-title {
-  padding: 20px;
+  padding: 40px;
 }
 
 .right {
@@ -513,7 +514,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   top: 50%;
   left: 80%;
   transform: translate(-50%, -50%);
-  padding: 20px;
+  padding: 40px;
 }
 
 .about-page {
