@@ -1,10 +1,10 @@
 <?php get_header(); ?>
 <div class="top">
-<div class="iv-color">
-<div class="container invest-page">
-<div class="invest">
+  <div class="iv-color">
+    <div class="container invest-page">
+      <div class="invest">
         <?php dynamic_sidebar('investment-potential-title'); ?>
-      </div>
+  </div>
 
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
