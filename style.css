@@ -685,12 +685,18 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
         margin-left: -54px;
         height: auto;
     }
+    h2.blog-post-title {
+    font-size: 3rem;
+  }
   }  
 
 @media (max-width: 407px) {
 
   .one-third.column.posts {
     margin-left: 35px;
+  }
+  h2.blog-post-title {
+    font-size: 3rem;
   }
 
 } 
@@ -706,6 +712,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     margin-left: -69px;
     height: auto;
   }
+  h2.blog-post-title {
+    font-size: 3rem;
+  }
 
 } 
 
@@ -720,6 +729,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     width: 163%;
     margin-left: -62px;
     height: auto;
+  }
+  h2.blog-post-title {
+    font-size: 3rem;
   }
 
 } 
