@@ -1,10 +1,7 @@
 <?php get_header(); ?>
-<div class="top">
-<div class="iv-color">
-<div class="container invest-page">
-<div class="invest">
-        <?php dynamic_sidebar('investment-potential-title'); ?>
-      </div>
+  <div class="top iv-color container invest-page invest">
+    <?php dynamic_sidebar('investment-potential-title'); ?>
+  </div>
 
 <!-- Investment Potential SECTION -->
   <div class="row invest-section">
@@ -81,22 +78,10 @@
       <div class="invest-learn-more">
         <?php dynamic_sidebar('another-content'); ?>
       </div>
-    </div>
+    </div> 
+
   </div>
-</div>  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-</div>
+  </div>
 </div>
 
 
