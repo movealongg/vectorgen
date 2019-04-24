@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 
 <div class="container single">
-	<div class="hero-image-blog"><?php the_post_thumbnail('large'); ?></div>
+	<div class="nine columns">
+		<div class="hero-image-blog"><?php the_post_thumbnail('large'); ?></div>
+	</div>	
 
 		<?php 
 			if(have_posts()){
