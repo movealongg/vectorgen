@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container single">
-	<div class="container hero-image">
+	<div class="container-feature">
 		<div class="hero-image-blog"><?php the_post_thumbnail('large'); ?></div>
 	</div>	
 
