@@ -18,8 +18,8 @@
 
 							<div class="animated fadeIn duration2"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a></div>
 							<h3><a href="<?php the_permalink(); ?>" class = "blog-title animated fadeIn duration2" ><?php the_title();?></a></h3>
-							<p class="p"><?php echo "Published: " . get_the_date(); ?></p>
-							<p class="p l"><?php echo "Author: " . get_the_author(); ?></p>
+							<p class="p hide"><?php echo "Published: " . get_the_date(); ?></p>
+							<p class="p l hide"><?php echo "Author: " . get_the_author(); ?></p>
 						</div>
 
 			     <?php	} //ends while loop

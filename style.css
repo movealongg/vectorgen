@@ -549,6 +549,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   text-align: center;
 }
 
+/* ------HIDE CLASS-------*/
+
+.hide { /*for hiding things in mobile */
+  visibility: hidden;
+}
+
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
@@ -627,21 +633,15 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 } 
 
 
- @media (max-width: 595px) {
+ @media (max-width: 751px) {
 
   img.attachment-medium.size-medium.wp-post-image {
     width: 171%;
     height: auto;
   }
-
-} 
-
- @media (max-width: 435px) {
-
-  img.attachment-medium.size-medium.wp-post-image {
-    width: 166%;
-    height: auto;
-  }
+  .hide { /*for hiding things in mobile */
+  visibility: hidden;
+}
 
 } 
 
