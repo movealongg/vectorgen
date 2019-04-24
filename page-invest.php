@@ -91,7 +91,7 @@
       </div>
    </div>
    <!-- More Resources  -->
-        <div class=""> 
+        <div class="gray-background"> 
          <div class="row">
             <div class="twelve columns">
                <div class="invest-button">
