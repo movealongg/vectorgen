@@ -20,6 +20,14 @@
          </div>
       </div>
    </div>
+   <!-- Invest Button -->
+         <div class="row">
+            <div class="six columns">
+               <div class="invest-button">
+                  <?php dynamic_sidebar('investment-button'); ?>
+               </div>
+            </div>
+         </div>
    <!-- Money SECTION --> 
    <div class="money-color">
       <div class="container invest-page">

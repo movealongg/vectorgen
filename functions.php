@@ -124,6 +124,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+// LEARN MORE - Investment BUTTON CTA
+  register_sidebar( array(
+    'name'          => ('Investment Button'),
+    'id'            => 'investment-button',
+    'description'   => 'Widget area for investment button',
+    'before_widget' => '<div class="investment-button">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
 // LEARN MORE - Investment Potential TITLE
   register_sidebar( array(
     'name'          => ('Investment Potential - TITLE'),
