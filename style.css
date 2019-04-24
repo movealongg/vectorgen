@@ -306,6 +306,11 @@ p.p.l {
   margin-bottom: 80px;
 }
 
+.hero-image-blog img {
+    width: 100%;
+    height: auto;
+}
+
 /* Contact Page */
 
 .row.contact-page, .row.home-page{
