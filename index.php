@@ -14,7 +14,7 @@
 				if(have_posts()){
 					while (have_posts()){
 						the_post(); ?>
-						<div class="one-half column posts">
+						<div class="one-third column posts">
 
 							<div class="animated fadeIn duration2"><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('medium'); ?></a></div>
 							<h3><a href="<?php the_permalink(); ?>" class = "blog-title animated fadeIn duration2" ><?php the_title();?></a></h3>
