@@ -636,7 +636,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
  @media (max-width: 751px) {
 
   img.attachment-medium.size-medium.wp-post-image {
-    width: 171%;
+    width: 225%;
     height: auto;
   }
   .hide { /*for hiding things in mobile */
