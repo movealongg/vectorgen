@@ -57,7 +57,7 @@
             </div>
          </div>
         </div> 
-        
+
    <!-- Budget SECTION -->
    <div class="bu-color">
       <div class="container invest-page">
@@ -94,7 +94,7 @@
       </div>
    </div>
    <!-- More Resources  -->
-        <div class="gray-background"> 
+        <div class="resource-background"> 
          <div class="row">
             <div class="twelve columns">
                <div class="invest-button">
