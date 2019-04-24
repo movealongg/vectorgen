@@ -604,9 +604,46 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 } 
 
+ @media (max-width: 828px) {
+
+  .one-third.column.posts {
+    margin-left: 17px;
+    margin-right: 103px;
+  }
+
+} 
 
 
+ @media (max-width: 776px) {
 
+  img.attachment-medium.size-medium.wp-post-image {
+    width: 144%;
+    height: auto;
+  }
+  .one-third.column.posts {
+    margin-left: 82px;
+  }
+
+} 
+
+
+ @media (max-width: 595px) {
+
+  img.attachment-medium.size-medium.wp-post-image {
+    width: 171%;
+    height: auto;
+  }
+
+} 
+
+ @media (max-width: 435px) {
+
+  img.attachment-medium.size-medium.wp-post-image {
+    width: 166%;
+    height: auto;
+  }
+
+} 
 
 
 
