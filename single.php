@@ -1,6 +1,8 @@
 <?php get_header(); ?>
 
 <div class="container single">
+	<div class="hero-image-blog"><?php the_post_thumbnail('large'); ?></div>
+
 		<?php 
 			if(have_posts()){
 				while(have_posts()){
