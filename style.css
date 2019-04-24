@@ -549,12 +549,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   text-align: center;
 }
 
-/* ------HIDE CLASS-------*/
+/* ------HIDE CLASS for Mobile-------
 
-.hide { /*for hiding things in mobile */
+.hide { 
   visibility: hidden;
 }
-
+*/
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
