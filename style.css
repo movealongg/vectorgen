@@ -685,8 +685,8 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     margin-left: 35px;
   }
   .hero-image-blog img {
-    width: 152%;
-    margin-left: -58px;
+    width: 136%;
+    margin-left: -55px;
     height: auto;
   }
 
@@ -699,8 +699,8 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     margin-left: 25px;
   }
   .hero-image-blog img {
-    width: 154%;
-    margin-left: -50px;
+    width: 169%;
+    margin-left: -60px;
     height: auto;
   }
 
