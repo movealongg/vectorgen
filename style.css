@@ -254,6 +254,11 @@ h5.widget-title {
 
 }
 
+.textwidget.investment-button a {
+    text-align: center;
+    margin-left: 37%;
+}
+
 
 
 /* Blog Page */
