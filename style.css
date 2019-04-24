@@ -564,7 +564,15 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 
 
+ @media (max-width: 1171px) {
 
+  .one-third.column.posts {
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+
+
+  } 
 
 
 
