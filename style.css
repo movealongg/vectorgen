@@ -260,16 +260,12 @@ h5.widget-title {
 
 .investment-button a {
     text-align: center;
-    margin-left: 42%;
+    text-decoration: none;
 }
 
 .invest-button {
     padding-bottom: 50px;
     padding-top: 25px;
-}
-
-.investment-button h3.widget-title {
-    margin-bottom: 25px;
 }
 
 .learn-more-budget-title p {
@@ -285,6 +281,12 @@ h5.widget-title {
   color: white;
   padding: 8px 20px;
   border-radius: 5px;
+}
+
+.donate-button:hover{
+  background-color: #c7d6e0;
+  padding: 8px 20px;
+  text-decoration: none;
 }
 
 
