@@ -95,6 +95,10 @@ header .logo{
   height: auto;
 }
 
+.blue-background{
+  background-color: #174A7F;
+}
+
 /* Footer */
 footer{
   background-color: #174A7F;

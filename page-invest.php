@@ -21,13 +21,15 @@
       </div>
    </div>
    <!-- Invest Button -->
+        <div class="blue-background"> 
          <div class="row">
-            <div class="six columns">
+            <div class="twelve columns">
                <div class="invest-button">
                   <?php dynamic_sidebar('investment-button'); ?>
                </div>
             </div>
          </div>
+        </div> 
    <!-- Money SECTION --> 
    <div class="money-color">
       <div class="container invest-page">
