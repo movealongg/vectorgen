@@ -231,9 +231,10 @@ canvas{
     height: 200px;
 }
 
+
 h5.widget-title {
-    margin-top: -20px;
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: -14px;
 }
 
 .iv-color{
