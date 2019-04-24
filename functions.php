@@ -186,8 +186,8 @@ function blank_widgets_init(){
       'description'   => 'Learn More - Money title.',
       'before_widget' => '<div class="learn-more-money-title">',
       'after_widget'  => '</div>',
-      'before_title'  => '<h5 class="widget-title">',
-      'after_title'   =>  '</h5>'
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   =>  '</h3>'
     ));  
 
 //  LEARN MORE - Money Area 1
