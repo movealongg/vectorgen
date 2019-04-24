@@ -698,6 +698,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   h2.blog-post-title {
     font-size: 3rem;
   }
+  .blog-post-content p {
+    font-size: 1.25rem;
+}
 
 } 
 
@@ -715,6 +718,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   h2.blog-post-title {
     font-size: 3rem;
   }
+  .blog-post-content p {
+    font-size: 1.25rem;
+}
 
 } 
 
@@ -733,6 +739,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   h2.blog-post-title {
     font-size: 3rem;
   }
+  .blog-post-content p {
+    font-size: 1.25rem;
+}
 
 } 
 
