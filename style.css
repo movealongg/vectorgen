@@ -657,6 +657,17 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   .one-third.column.posts {
     margin-left: 43px;
   }
+  .container.single {
+    width: 74%;
+  }
+  .hero-image-blog img {
+    width: 131%;
+    margin-left: -42px;
+    height: auto;
+  }
+  h2.blog-post-title {
+    font-size: 3rem;
+  }
 
 } 
 
@@ -668,11 +679,29 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 } 
 
+@media (max-width: 407px) {
+
+  .one-third.column.posts {
+    margin-left: 35px;
+  }
+  .hero-image-blog img {
+    width: 152%;
+    margin-left: -58px;
+    height: auto;
+  }
+
+} 
+
 
  @media (max-width: 375px) {
 
   .one-third.column.posts {
     margin-left: 25px;
+  }
+  .hero-image-blog img {
+    width: 154%;
+    margin-left: -50px;
+    height: auto;
   }
 
 } 
@@ -683,6 +712,11 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
   .one-third.column.posts {
     margin-left: 14px;
+  }
+  .hero-image-blog img {
+    width: 158%;
+    margin-left: -51px;
+    height: auto;
   }
 
 } 
