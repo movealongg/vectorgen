@@ -679,15 +679,18 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 
 } 
 
+  @media (max-width: 414px) {
+    .hero-image-blog img {
+        width: 136%;
+        margin-left: -54px;
+        height: auto;
+    }
+  }  
+
 @media (max-width: 407px) {
 
   .one-third.column.posts {
     margin-left: 35px;
-  }
-  .hero-image-blog img {
-    width: 136%;
-    margin-left: -55px;
-    height: auto;
   }
 
 } 
