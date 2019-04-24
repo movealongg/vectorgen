@@ -256,9 +256,17 @@ h5.widget-title {
 
 .investment-button a {
     text-align: center;
-    margin-left: 37%;
+    margin-left: 42%;
 }
 
+.invest-button {
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.investment-button h3.widget-title {
+    margin-bottom: 25px;
+}
 
 
 /* Blog Page */
