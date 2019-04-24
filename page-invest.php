@@ -90,6 +90,16 @@
          </div>
       </div>
    </div>
+   <!-- More Resources  -->
+        <div class=""> 
+         <div class="row">
+            <div class="twelve columns">
+               <div class="invest-button">
+                  <?php dynamic_sidebar('investment-resources'); ?>
+               </div>
+            </div>
+         </div>
+        </div> 
 </div>
 </div>
 <?php get_footer(); ?>

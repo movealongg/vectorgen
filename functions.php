@@ -135,6 +135,17 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+// LEARN MORE - Resources
+  register_sidebar( array(
+    'name'          => ('Investment Resources'),
+    'id'            => 'investment-resources',
+    'description'   => 'Widget area for investment resources',
+    'before_widget' => '<div class="investment-resources">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));  
+
 // LEARN MORE - Investment Potential TITLE
   register_sidebar( array(
     'name'          => ('Investment Potential - TITLE'),
