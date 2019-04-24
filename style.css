@@ -219,6 +219,10 @@ h3.invest {
       margin-bottom: 26px;
 }
 
+.invest-button{
+  color: #ffffff;
+}
+
 canvas{
     display: block;
     height: 200px;
