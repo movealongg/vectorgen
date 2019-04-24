@@ -278,13 +278,14 @@ h5.widget-title {
 
 .donate-button{
   background-color: #40B2B1;
-  color: white;
+  color: #ffffff;
   padding: 8px 20px;
   border-radius: 5px;
 }
 
 .donate-button:hover{
   background-color: #c7d6e0;
+  color: #ffffff;
   padding: 8px 20px;
   text-decoration: none;
 }
