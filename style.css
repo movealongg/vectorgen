@@ -261,11 +261,17 @@ h5.widget-title {
 .investment-button a {
     text-align: center;
     text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    font-size: 1.75rem;
 }
 
 .invest-button {
     padding-bottom: 50px;
     padding-top: 25px;
+
 }
 
 .learn-more-budget-title p {
