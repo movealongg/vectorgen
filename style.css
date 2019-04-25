@@ -95,22 +95,6 @@ header .logo{
   height: auto;
 }
 
-#wprmenu_bar .menu_title a {
-    display: inline-block;
-    position: relative;
-    top: 18px;
-    margin-left: 31%;
-}
-
-#wprmenu_bar .bar_logo {
-    border: none;
-    margin: 0;
-    padding: 0px 8px 0px 0px;
-    width: auto;
-    height: 65px;
-    margin-top: -16px;
-}
-
 .blue-background{
   background-color: #174A7F;
 }
@@ -628,6 +612,20 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 */
 
+  #wprmenu_bar .menu_title a {
+    display: inline-block;
+    position: relative;
+    top: 18px;
+    margin-left: 31%;
+    border: none;
+    margin: 0;
+    padding: 0px 8px 0px 0px;
+    width: auto;
+    height: 75px;
+    margin-top: -22px;
+}
+
+
 /* MEDIA QUERIES (HEADER_NAV) */
 
  @media (max-width: 1178px) {
@@ -645,15 +643,6 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   }
   .container.blog h3.widget-title {
       margin-top: 55px;
-  }
-  #wprmenu_bar .bar_logo {
-    border: none;
-    margin: 0;
-    padding: 0px 8px 0px 0px;
-    width: auto;
-    height: 75px;
-    margin-top: -22px;
-    margin-left: 96%;
   }
 
 }
