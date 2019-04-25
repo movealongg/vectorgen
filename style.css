@@ -812,6 +812,9 @@ img.image.wp-image-98.attachment-full.size-full {
   .learn-more-budget-title {
     margin-right: 27px;
   }
+  .row.invest-section {
+    text-align: center;
+}
 
 }
 
@@ -856,7 +859,16 @@ img.image.wp-image-98.attachment-full.size-full {
   }
   .blog-post-content p {
     font-size: 1.25rem;
-}
+  }
+  .row.invest-section {
+    margin-right: 42px;
+  }
+  .money-color {
+    margin-right: 38px;
+  }
+  .learn-more-budget-title {
+    margin-right: 42px;
+  }
 
 }
 
