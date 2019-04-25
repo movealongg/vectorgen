@@ -378,7 +378,7 @@ p.p.l {
   padding: 30px;
 }
 
-.contact-form input.wpcf7-form-control.wpcf7-submit {
+.contact-form button#wpforms-submit-276 {
   background-color: #40B2B1;
   color: #fff;
   border-radius: 5px;
@@ -387,7 +387,7 @@ p.p.l {
   font-size: 1.5rem;
 }
 
-.contact-form input.wpcf7-form-control.wpcf7-submit:hover {
+.contact-form button#wpforms-submit-276:hover {
     background-color: #174A7F;
     color: #fff;
 }
