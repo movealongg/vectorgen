@@ -628,6 +628,14 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     margin-left: 31%;
 }
 
+#wprmenu_bar .bar_logo {
+    border: none;
+    margin: 0;
+    padding: 0px 8px 0px 0px;
+    width: auto;
+    height: 65px;
+    margin-top: -16px;
+}
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
