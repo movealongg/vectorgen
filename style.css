@@ -750,8 +750,14 @@ img.image.wp-image-98.attachment-full.size-full {
   h5.widget-title {
     font-size: 2.5rem;
   }
-  .row.invest {
+  .row.invest-section {
     margin-right: 25px;
+  }
+  .money-color {
+    margin-right: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 }
