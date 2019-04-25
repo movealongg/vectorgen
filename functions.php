@@ -30,7 +30,7 @@ add_theme_support('custom-header', $custom_image_header);
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  ));  
+  ));
 
 
 //Add Widget Areas
@@ -144,7 +144,7 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  ));  
+  ));
 
 // LEARN MORE - Investment Potential TITLE
   register_sidebar( array(
@@ -188,7 +188,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   =>  '</h3>'
-    ));  
+    ));
 
 //  LEARN MORE - Money Area 1
     register_sidebar( array(
@@ -232,7 +232,7 @@ function blank_widgets_init(){
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   =>  '</h3>'
-    ));    
+    ));
 
 // LEARN MORE - BUDGET
     register_sidebar( array(
@@ -276,7 +276,7 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h5 class="widget-title">',
     'after_title'   => '</h5>'
-  ));    
+  ));
 
   // OUR PLAN - STAGE 1
     register_sidebar( array(
@@ -473,18 +473,7 @@ register_sidebar( array(
   'after_title'   => '</h3>'
 ));
 
-//Social Media Widget
-register_sidebar( array(
-  'name'          => ('Social Media Block'),
-  'id'            => 'social-media',
-  'description'   => 'Widget area for social media in footer',
-  'before_widget' => '<div class="social-media">',
-  'after_widget'  => '</div>',
-  'before_title'  => '<h3 class="widget-title">',
-  'after_title'   => '</h3>'
-));
-
-// 404 WIDGET 
+// 404 WIDGET
 
 register_sidebar( array(
   'name'          => ('Hero Image 404'),
