@@ -73,6 +73,16 @@
          </div>
       </div>
    </div>
+   <!-- More Resources  -->
+        <div class="resource-background"> 
+         <div class="row">
+            <div class="twelve columns">
+               <div class="invest-button">
+                  <?php dynamic_sidebar('investment-resources'); ?>
+               </div>
+            </div>
+         </div>
+        </div> 
    <!-- Another SECTION -->
    <div class="money-color">
       <div class="container invest-page">
@@ -93,16 +103,7 @@
          </div>
       </div>
    </div>
-   <!-- More Resources  -->
-        <div class="resource-background"> 
-         <div class="row">
-            <div class="twelve columns">
-               <div class="invest-button">
-                  <?php dynamic_sidebar('investment-resources'); ?>
-               </div>
-            </div>
-         </div>
-        </div> 
+
 </div>
 </div>
 <?php get_footer(); ?>
