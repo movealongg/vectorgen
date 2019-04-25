@@ -106,7 +106,9 @@ header .logo{
     border: none;
     margin: 0;
     padding: 0px 8px 0px 0px;
-    height: 63px;
+    width: auto;
+    height: 65px;
+    margin-top: -16px;
 }
 
 .blue-background{
