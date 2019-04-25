@@ -230,7 +230,7 @@ function blank_widgets_init(){
     'description'   => 'Widget area for another title on Learn More',
     'before_widget' => '<div class="another-title">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title-white">',
+    'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
@@ -262,7 +262,7 @@ register_sidebar( array(
   'description'   => 'Widget area for research title on Research',
   'before_widget' => '<div class="research-title">',
   'after_widget'  => '</div>',
-  'before_title'  => '<h3 class="widget-title">',
+  'before_title'  => '<h3 class="widget-title-white">',
   'after_title'   => '</h3>'
 ));
   // OUR PLAN - STAGE 1
