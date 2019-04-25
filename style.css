@@ -612,15 +612,6 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
 }
 */
 
-  #wprmenu_bar .bar_logo {
-    border: none;
-    margin: 0;
-    padding: 0px 8px 0px 0px;
-    width: auto;
-    height: 75px;
-    margin-top: -22px;
-    margin-left: 96%;
-  }
   #wprmenu_bar .menu_title a {
     display: inline-block;
     position: relative;
@@ -633,7 +624,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     margin: 0;
     padding: 0px 8px 0px 0px;
     width: auto;
-    height: 65px;
+    height: 75px;
     margin-top: -16px;
 }
 
