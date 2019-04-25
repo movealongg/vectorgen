@@ -385,6 +385,7 @@ p.p.l {
   border: none;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.5rem;
+  padding: 0px 20px;
 }
 
 .contact-form button#wpforms-submit-276:hover {
