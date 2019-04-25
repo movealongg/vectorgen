@@ -255,7 +255,16 @@ function blank_widgets_init(){
     'before_title'  => '<h5 class="widget-title">',
     'after_title'   => '</h5>'
   ));
-
+// Research - REASEARCH TITLE
+register_sidebar( array(
+  'name'          => ('Research - TITLE'),
+  'id'            => 'research-title',
+  'description'   => 'Widget area for research title on Research',
+  'before_widget' => '<div class="research-title">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="widget-title">',
+  'after_title'   => '</h3>'
+));
   // OUR PLAN - STAGE 1
     register_sidebar( array(
       'name'          => ('Our Plan Stage 1'),

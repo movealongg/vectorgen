@@ -5,8 +5,8 @@
  <!--Stage 1 Section -->
 <div class="stage1_container">
     
-    <div class="container ">
-        <h5 class="our_plan">Our Plan</h5>
+    <div class="container">
+        <?php dynamic_sidebar('research-title'); ?>
 
         <div class="row stage1">
             <div class="six columns">
