@@ -709,7 +709,10 @@ img.image.wp-image-98.attachment-full.size-full {
   }
   .investment-button a {
     width: 35%;
-}
+  }
+  .investment-button a:hover {
+    width: 35%;
+  }
 
 }
 
@@ -758,6 +761,38 @@ img.image.wp-image-98.attachment-full.size-full {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  img.image.wp-image-94.attachment-medium.size-medium {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  }
+  img.image.wp-image-98.attachment-medium.size-medium {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  }
+  img.image.wp-image-97.attachment-medium.size-medium {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  }
+  .investment-button a {
+    width: 53%;
+    padding: 4%;
+  }
+   .investment-button a:hover {
+    width: 53%;
+    padding: 4%;
+  }
+  .bu-color {
+    padding-bottom: 75px;
+  }
+  img.image.wp-image-98.attachment-full.size-full {
+    margin-top: -15px;
   }
 
 }
