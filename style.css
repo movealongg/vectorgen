@@ -95,6 +95,13 @@ header .logo{
   height: auto;
 }
 
+#wprmenu_bar .menu_title a {
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    margin-left: 35%;
+}
+
 .blue-background{
   background-color: #174A7F;
 }
