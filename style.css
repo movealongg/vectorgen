@@ -209,9 +209,10 @@ button.button-primary.hero-button:hover {
     border-color: #174A7F;
 }
 
-.home-image{
+.home-image img{
   display: flex;
   object-fit: cover;
+  min-width: 100%;
 }
 
 /* Learn More */
