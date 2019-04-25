@@ -196,7 +196,6 @@ footer img:hover{
 
 button.button-primary.hero-button {
     font-size: 1.5rem;
-    margin: 15px;
 }
 
 .button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
