@@ -11,18 +11,16 @@
   </div>
 </div>
 
-<div class="container">
-  <!--Collaborators Text Block Section-->
-  <div class="row contact-page">
-    <div class="eleven columns">
-      <?php dynamic_sidebar('collaborators'); ?>
+<div class="collab-bg">
+  <div class="container">
+    <!--Collaborators Text Block Section-->
+    <div class="row contact-page">
+      <div class="eleven columns">
+        <?php dynamic_sidebar('collaborators'); ?>
+      </div>
+
     </div>
   </div>
 </div>
-
-
-
-
-
 
 <?php get_footer(); ?>
