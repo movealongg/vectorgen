@@ -636,13 +636,16 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   }
   .top {
     margin-top: 35px;
-}
-img.image.wp-image-92.attachment-500x304.size-500x304 {
-    margin-top: 64px;
-}
-img.image.wp-image-98.attachment-full.size-full {
-    margin-top: 64px;
-}
+  }
+  img.image.wp-image-92.attachment-500x304.size-500x304 {
+      margin-top: 64px;
+  }
+  img.image.wp-image-98.attachment-full.size-full {
+      margin-top: 64px;
+  }
+  .container.blog h3.widget-title {
+      margin-top: 55px;
+  }
 
 }
 
@@ -869,6 +872,9 @@ img.image.wp-image-98.attachment-full.size-full {
   .learn-more-budget-title {
     margin-right: 42px;
   }
+  .end-invest-section {
+    margin-right: 5px;
+}
 
 }
 
