@@ -229,6 +229,10 @@ button.button-primary.hero-button:hover {
 
 /* Learn More */
 
+.top {
+    margin-top: 35px;
+}
+
 h3.invest {
     text-align: center;
     margin-top: 42px;
