@@ -80,17 +80,6 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  // //Contact Text Block Widget
-  // register_sidebar( array(
-  //   'name'          => ('Contact Text Block'),
-  //   'id'            => 'contact-us',
-  //   'description'   => 'Widget area for Contact Us section',
-  //   'before_widget' => '<div class="contact-us">',
-  //   'after_widget'  => '</div>',
-  //   'before_title'  => '<h3 class="widget-title">',
-  //   'after_title'   => '</h3>'
-  // ));
-
 //Contact Form Section
   register_sidebar( array(
     'name'          => ('Contact Form'),
