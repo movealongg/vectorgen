@@ -74,7 +74,7 @@
       </div>
    </div>
    <!-- Another SECTION -->
-   <div class="another-section">
+   <div class="money-color another-section">
       <div class="container invest-page">
          <div class="invest">
             <?php dynamic_sidebar('another-title'); ?>
