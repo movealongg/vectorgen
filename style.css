@@ -410,6 +410,7 @@ div#wpforms-confirmation-276 {
 .collab-logos {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 /* OUR PLAN PAGE */
