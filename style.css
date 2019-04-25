@@ -175,7 +175,11 @@ footer img:hover{
 }
 
 .hero-image-text h3 {
-  font-size: 5rem;
+  font-size: 4rem;
+}
+
+.hero-image-text p{
+  font-size: 1.6rem;
 }
 
 .centered {
