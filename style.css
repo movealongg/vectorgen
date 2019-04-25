@@ -155,6 +155,12 @@ footer img:hover{
   padding: 15px;
 }
 
+.widget-title-white {
+  text-align: center;
+  padding: 15px;
+  color: white;
+}
+
 /* Home Page */
 .home-block-color{
   background-color: #c7d6e0;
