@@ -407,6 +407,11 @@ div#wpforms-confirmation-276 {
   padding: 20px 0 50px 0;
 }
 
+.collab-logos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 /* OUR PLAN PAGE */
 
 .our_plan {
