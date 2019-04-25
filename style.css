@@ -744,6 +744,15 @@ img.image.wp-image-98.attachment-full.size-full {
   h2.blog-post-title {
     font-size: 3rem;
   }
+  img.image.wp-image-92.attachment-500x304.size-500x304 {
+    margin-top: -14px;
+  }
+  h5.widget-title {
+    font-size: 2.5rem;
+  }
+  .row.invest {
+    margin-right: 25px;
+  }
 
 }
 
