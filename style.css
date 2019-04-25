@@ -637,6 +637,12 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   .top {
     margin-top: 35px;
 }
+img.image.wp-image-92.attachment-500x304.size-500x304 {
+    margin-top: 64px;
+}
+img.image.wp-image-98.attachment-full.size-full {
+    margin-top: 64px;
+}
 
 }
 
@@ -701,6 +707,9 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   .one-third.column.posts {
     margin-left: 82px;
   }
+  .investment-button a {
+    width: 35%;
+}
 
 }
 
