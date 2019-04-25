@@ -646,6 +646,15 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
   .container.blog h3.widget-title {
       margin-top: 55px;
   }
+  #wprmenu_bar .bar_logo {
+    border: none;
+    margin: 0;
+    padding: 0px 8px 0px 0px;
+    width: auto;
+    height: 75px;
+    margin-top: -22px;
+    margin-left: 96%;
+  }
 
 }
 
