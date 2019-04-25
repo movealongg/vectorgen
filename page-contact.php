@@ -6,22 +6,7 @@
   <!--Contact Text Block Section-->
   <div class="row contact-page">
     <div class="eleven columns">
-      <?php dynamic_sidebar('contact-us'); ?>
-    </div>
-  </div>
-</div>
-
-<div class="form-bg">
-  <div class="container">
-    <!--Contact Form Section-->
-    <div class="row contact-page">
-      <div class="eleven columns">
-        <?php dynamic_sidebar('contact-form'); ?>
-      </div>
-
-      <!-- <div class="five columns"> -->
-        <?php dynamic_sidebar('half-block'); ?>
-      <!-- </div> -->
+      <?php dynamic_sidebar('contact-form'); ?>
     </div>
   </div>
 </div>
