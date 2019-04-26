@@ -1,7 +1,7 @@
 <?php /*Template Name: Blog Page Template*/ ?>
 
 <?php get_header(); ?>
-	<div class="top">
+	<div class="top-news">
 		<div class="container blog">
 			<div class="row">
 	        	<?php dynamic_sidebar('blog-title'); ?>

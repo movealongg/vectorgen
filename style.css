@@ -662,6 +662,11 @@ div#wpforms-confirmation-276 {
   .top {
     margin-top: 35px;
   }
+
+  .top-news {
+    margin-top: -20px;
+  }
+ 
   img.image.wp-image-92.attachment-500x304.size-500x304 {
       margin-top: 64px;
   }
