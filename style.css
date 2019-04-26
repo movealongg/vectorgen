@@ -95,6 +95,11 @@ header .logo{
   height: auto;
 }
 
+.logo {
+  max-width: 600px;
+  text-align: center;
+}
+
 .blue-background{
   background-color: #174A7F;
 }
