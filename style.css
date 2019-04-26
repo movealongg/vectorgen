@@ -96,14 +96,6 @@ header .logo{
 
 .bar_logo .logo {
   height: 4em !important;
-  right: 0px;
-  left: 0px;
-}
-
-.menu_title {
-  top: -27px !important;
-  bottom: 0px !important;
-  left: 26px !important;
 }
 
 .blue-background{
@@ -661,6 +653,11 @@ div#wpforms-confirmation-276 {
   display: block !important;
   position: fixed !important;
   top: 0px !important;
+}
+
+.menu_title a {
+  left: 0px !important;
+  right: 0px !important;
 }
 
 /* MEDIA QUERIES (HEADER_NAV) */
