@@ -96,6 +96,8 @@ header .logo{
 
 .bar_logo .logo {
   height: 4em !important;
+  right: 0px;
+  left: 0px;
 }
 
 .menu_title {
@@ -652,6 +654,7 @@ div#wpforms-confirmation-276 {
 
 #wprmenu_bar {
     height: 75px !important;
+    text-align: center !important;
 }
 
 #wprmenu_bar .menu_title a {
