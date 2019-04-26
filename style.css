@@ -641,13 +641,6 @@ div#wpforms-confirmation-276 {
 }
 */
 
-  #wprmenu_bar .menu_title a {
-    display: inline-block;
-    position: relative;
-    top: 18px;
-    margin-left: 31%;
-}
-
 #wprmenu_bar .bar_logo {
     border: none;
     margin: 0;
@@ -655,6 +648,16 @@ div#wpforms-confirmation-276 {
     width: auto;
     height: 75px !important;
     margin-top: -16px;
+}
+
+#wprmenu_bar {
+    height: 75px !important;
+}
+
+#wprmenu_bar .menu_title a {
+  display: block !important;
+  position: fixed !important;
+  top: 0px !important;
 }
 
 /* MEDIA QUERIES (HEADER_NAV) */
