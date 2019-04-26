@@ -671,14 +671,9 @@ div#wpforms-confirmation-276 {
 
 @media (max-width: 750px) {
 
-  .widget-title {
-    font-size: 1em;
+  .hero-image-text {
+    font-size: 1.6em;
   }
-
-  .hero-image-text p {
-    font-size: 1em;
-  }
-
 }
 
 
