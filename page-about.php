@@ -1,8 +1,10 @@
 <?php get_header(); ?>
 
+<!-- Header Image -->
 <div class="hero-section hero">
 	<?php dynamic_sidebar('hero-image-about'); ?>
 	<div class="seven columns">
+		<!-- Header Info Box -->
 		<div class="right">
 			<?php dynamic_sidebar('hero-image-about-text'); ?>
 		</div>
