@@ -91,12 +91,11 @@ ul#menu-header-nav li:last-child a:hover {
 
 header .logo{
   width: 100%;
-  max-width: 100px;
   height: auto;
 }
 
 .logo {
-  max-width: 600px;
+  max-width: 600px !important;
   text-align: center;
 }
 
