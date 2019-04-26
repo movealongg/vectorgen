@@ -652,8 +652,8 @@ div#wpforms-confirmation-276 {
 .menu_title a {
   left: 0px !important;
   right: 0px !important;
-  display: block;
-  position: fixed;
+  display: block !important;
+  position: fixed !important;
   text-align: center !important;
 }
 
