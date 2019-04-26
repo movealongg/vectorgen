@@ -647,13 +647,9 @@ div#wpforms-confirmation-276 {
 
 #wprmenu_bar {
     height: 75px !important;
-    text-align: center !important;
 }
 
 #wprmenu_bar .menu_title a {
-  display: block !important;
-  position: fixed !important;
-  top: 0px !important;
   text-align: center !important;
 }
 
