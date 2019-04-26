@@ -634,7 +634,7 @@ div#wpforms-confirmation-276 {
   visibility: hidden;
 }
 */
-/* 
+
 #wprmenu_bar .bar_logo {
     border: none;
     margin: 0;
@@ -645,17 +645,13 @@ div#wpforms-confirmation-276 {
     text-align: center !important;
 }
 
-#wprmenu_bar {
-    height: 75px !important;
+#wprmenu_bar a {
     display: block !important;
-    position: fixed !important;
+    position: fixed;
+    left: 0px !important;
+    right: 0px !important;
+    text-align: center !important;
 }
-
-.menu_title a {
-  left: 0px !important;
-  right: 0px !important;
-  text-align: center !important;
-} */
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
