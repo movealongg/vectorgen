@@ -647,13 +647,13 @@ div#wpforms-confirmation-276 {
 
 #wprmenu_bar {
     height: 75px !important;
+    display: block !important;
+    position: fixed !important;
 }
 
 .menu_title a {
   left: 0px !important;
   right: 0px !important;
-  display: block !important;
-  position: fixed !important;
   text-align: center !important;
 }
 
