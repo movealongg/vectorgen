@@ -178,6 +178,7 @@ footer img:hover{
 .hero-image img{
   opacity: 0.25;
   height: 90vh;
+  min-width: 700px;
 }
 
 .hero-image-text h3 {
@@ -668,6 +669,17 @@ div#wpforms-confirmation-276 {
 
 }
 
+@media (max-width: px) {
+
+  .widget-title {
+    font-size: 1em;
+  }
+
+  .hero-image-text p {
+    font-size: 1em;
+  }
+
+}
 
 
  @media (max-width: 1171px) {
