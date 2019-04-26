@@ -25,6 +25,10 @@ body{
   color: #383E4B;
 }
 
+html {
+  padding-top: 85px !important;
+}
+
 h1, h2, h3, h4, h5{
   font-family: 'Lato', sans-serif;
   color: #174A7F;
@@ -94,9 +98,14 @@ header .logo{
   height: auto;
 }
 
-.logo {
-  max-width: 600px !important;
-  text-align: center;
+.bar_logo {
+  height: 4em;
+}
+
+.menu_title {
+  top: -27px;
+  bottom: 0px;
+  left: 26px;
 }
 
 .blue-background{
