@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<div class="top">
+<div class="top">  <!--For Mobile Header-->
 	<div class="container">
 	  <!--Contact Text Block Section-->
 	  <div class="row contact-page">
