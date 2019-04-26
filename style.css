@@ -649,13 +649,12 @@ div#wpforms-confirmation-276 {
     height: 75px !important;
 }
 
-#wprmenu_bar .menu_title a {
-  text-align: center !important;
-}
-
 .menu_title a {
   left: 0px !important;
   right: 0px !important;
+  display: block;
+  position: fixed;
+  text-align: center !important;
 }
 
 /* MEDIA QUERIES (HEADER_NAV) */
