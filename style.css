@@ -698,23 +698,6 @@ img.bar_logo {
   
 }
 
-@media (max-width: 1020px) {
-
-  .right {
-    position: relative;
-    margin: auto;
-    float: none;
-    width: 150%;
-    top: 0;
-    right: 0;
-    left: 0;
-    transform: translate(0, 0);
-    padding: 40px;
-  }
-}
-
-
-
  @media (max-width: 1171px) {
 
   .one-third.column.posts {
