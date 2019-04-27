@@ -3,6 +3,7 @@
 <?php get_header(); ?>
 
 <div class="top">  <!--For Mobile-->
+	<!--Hero image at top of home page -->
 	<div class="hero-section hero">
 				<?php dynamic_sidebar('hero-image'); ?>
 				<div class="centered">
@@ -21,10 +22,11 @@
 		</div>
 	</div>
 
+<!--Image under text block on home page -->
 	<div class="home-image-section">
 			<?php dynamic_sidebar('home-image'); ?>
 	</div>
-</div>	
+</div>
 
 
 <?php get_footer(); ?>
