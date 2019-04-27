@@ -690,8 +690,21 @@ img.bar_logo {
   .hero-image-text p {
     font-size: 1.3rem;
   }
+
+  .right {
+    position: relative;
+  }
   
 }
+
+@media (max-width: 1085px) {
+
+  .right {
+    right: -30%;
+    left: 67%;
+  }
+}
+
 
 
  @media (max-width: 1171px) {
