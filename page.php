@@ -9,8 +9,8 @@
 			</div>
 		</div>	
 		<!--Section 2-->
-		<div class="row"> <!--Row 1-->
-			<div class="twelve columns"> <!--Column 1-->
+		<div class="row"> <!--Row 2-->
+			<div class="twelve columns"> <!--Column 2-->
 
 			</div>
 		</div>	
