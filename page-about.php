@@ -12,6 +12,7 @@
 		</div>
 	</div>
 
+<!-- Image  -->
 	<div class="row about-page">
 		<div class="six columns">
 			<!-- <div class="inner"> -->
