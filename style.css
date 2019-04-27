@@ -695,7 +695,13 @@ img.bar_logo {
   .right {
     display: none;
   }
-  
+}
+
+@media (max-width: 1000px) {
+
+  .right {
+    display: none;
+  }
 }
 
  @media (max-width: 1171px) {
