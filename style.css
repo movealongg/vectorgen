@@ -23,6 +23,9 @@ White: #F4FAFE;
 body{
   background-color: #F4FAFE;
   color: #383E4B;
+}
+
+.overflow {
   overflow-x: hidden;
 }
 
