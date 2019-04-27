@@ -1,11 +1,11 @@
-<?php /*Template Name: Our Plan Template*/ ?>
+<?php /*Template Name: Research Template*/ ?>
 
 <?php get_header(); ?>
 
 <div class="top">  <!--For Mobile-->
 	 <!--Stage 1 Section -->
 	<div class="stage1_container">
-	    
+
 	    <div class="container">
 	        <?php dynamic_sidebar('research-title'); ?>
 
@@ -20,7 +20,7 @@
 	                    <?php dynamic_sidebar('stage1-image'); ?>
 	                </div>
 	            </div>
-	        </div> 
+	        </div>
 	    </div>
 	</div>
 
@@ -28,7 +28,7 @@
 
 	 <!--Stage 2 Section -->
 	<div class="stage2_container">
-	    
+
 	    <div class="container ">
 
 	        <div class="row stage2">
@@ -42,7 +42,7 @@
 	                    <?php dynamic_sidebar('stage2-text'); ?>
 	                </div>
 	            </div>
-	        </div> 
+	        </div>
 	    </div>
 	</div>
 
@@ -52,7 +52,7 @@
 
 	<!--Stage 3 Section -->
 	<div class="stage3_container">
-	    
+
 	    <div class="container ">
 
 	        <div class="row stage3">
@@ -66,7 +66,7 @@
 	                    <?php dynamic_sidebar('stage3-image'); ?>
 	                </div>
 	            </div>
-	        </div> 
+	        </div>
 	    </div>
 	</div>
 
@@ -76,7 +76,7 @@
 
 	 <!--Stage 4 Section -->
 	<div class="stage4_container">
-	    
+
 	    <div class="container ">
 
 	        <div class="row stage4">
@@ -90,7 +90,7 @@
 	                    <?php dynamic_sidebar('stage4-text'); ?>
 	                </div>
 	            </div>
-	        </div> 
+	        </div>
 	    </div>
 	</div>
 
@@ -98,7 +98,7 @@
 
 	 <!--Stage 5 Section -->
 	<div class="stage5_container">
-	    
+
 	    <div class="container ">
 
 	        <div class="row stage5">
@@ -112,7 +112,7 @@
 	                    <?php dynamic_sidebar('stage5-image'); ?>
 	                </div>
 	            </div>
-	        </div> 
+	        </div>
 	    </div>
 	</div>
 </div>
