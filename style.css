@@ -691,10 +691,6 @@ img.bar_logo {
   .hero-image-text p {
     font-size: 1.3rem;
   }
-
-  .right {
-    position: relative;
-  }
   
 }
 
@@ -705,6 +701,11 @@ img.bar_logo {
     margin: 40px;
     float: none;
     width: 100%;
+    top: 50%;
+    right: -10%;
+    left: 67%;
+    transform: translate(0, 0);
+    padding: 40px;
   }
 }
 
