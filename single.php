@@ -19,20 +19,21 @@
 							<p class="p l"><?php echo "Author: " . get_the_author(); 
 							?></p>
 							<div class="blog-post-content" ><?php the_content(); ?></div>
+							<!-- BLOG Button -->
+					        <div class="blue-background"> 
+					         <div class="row">
+					            <div class="twelve columns">
+					               <div class="invest-button">
+					                  <?php dynamic_sidebar('blog-button'); ?>
+					               </div>
+					            </div>
+					         </div>
+					        </div> 
 							
 						<?php } // end while loop
 					}// end if statement
 				?>
-			<!-- BLOG Button -->
-	        <div class="blue-background"> 
-	         <div class="row">
-	            <div class="twelve columns">
-	               <div class="invest-button">
-	                  <?php dynamic_sidebar('blog-button'); ?>
-	               </div>
-	            </div>
-	         </div>
-	        </div> 
+			
 		</div>
 
 	</div>	
