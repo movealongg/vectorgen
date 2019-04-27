@@ -883,7 +883,7 @@ html body .wprm-overlay.active {
   .hero-image-about img {
       min-width: 550px;
   }
-  .menu-footer-nav {
+  .menu-footer-nav-container {
       font-size: .8em !important;
   }
 }
