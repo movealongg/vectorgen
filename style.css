@@ -645,13 +645,15 @@ div#wpforms-confirmation-276 {
     text-align: center !important;
 }
 
-#wprmenu_bar a {
-    display: block !important;
-    position: fixed !important;
-    left: 0px !important;
-    right: 0px !important;
-    text-align: center !important;
+#wprmenu_bar .menu_title {
+  text-align: center; 
 }
+
+img.bar_logo {
+  position: relative;
+  top: -20px;
+}
+
 
 /* MEDIA QUERIES (HEADER_NAV) */
 
