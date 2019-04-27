@@ -385,7 +385,7 @@ p.p.l {
   padding: 30px;
 }
 
-.contact-form button#wpforms-submit-276 {
+.contact-form button#wpforms-submit-276, .hero-button {
   background-color: #40B2B1;
   color: #fff;
   border-radius: 5px;
@@ -395,7 +395,7 @@ p.p.l {
   padding: 0px 20px;
 }
 
-.contact-form button#wpforms-submit-276:hover {
+.contact-form button#wpforms-submit-276:hover, .hero-button:hover {
     background-color: #174A7F;
     color: #fff;
 }
