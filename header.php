@@ -15,6 +15,7 @@
     <header>
       <div class="container navvv">
         <div class="row">
+<!--Show title of site in header if logo is unavailable -->
           <div class="five columns header-image">
             <?php if(get_header_image() == ''){?>
               <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
@@ -24,7 +25,7 @@
               width="<?php echo get_custom_header() -> width; ?>" alt="Logo" /></a><?php
             } ?>
           </div>
-
+<!--Header navigation -->
           <div class="seven columns">
             <?php wp_nav_menu(array(
               'theme_location' => 'header-menu',

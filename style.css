@@ -648,12 +648,16 @@ div#wpforms-confirmation-276 {
 }
 
 #wprmenu_bar .menu_title {
-  text-align: center; 
+  text-align: center;
 }
 
 img.bar_logo {
   position: relative;
   top: -20px;
+}
+
+html body .wprm-overlay.active {
+    opacity: 0.7;
 }
 
 
@@ -688,7 +692,7 @@ img.bar_logo {
   .hero-image-text h3 {
     font-size: 2.5rem;
   }
-  
+
   .hero-image-text p {
     font-size: 1.3rem;
   }
