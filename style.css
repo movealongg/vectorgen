@@ -23,7 +23,7 @@ White: #F4FAFE;
 body{
   background-color: #F4FAFE;
   color: #383E4B;
-  overflow-x:hidden
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5{
@@ -884,7 +884,7 @@ html body .wprm-overlay.active {
       min-width: 550px;
   }
   .menu-footer-nav {
-      font-size: .8em;
+      font-size: .8em !important;
   }
 }
 
