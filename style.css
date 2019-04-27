@@ -205,21 +205,6 @@ footer img:hover{
   text-align: center;
 }
 
-/* button.button-primary.hero-button {
-    font-size: 1.5rem;
-}
-
-.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
-    color: #FFF;
-    background-color: #40B2B1;
-    border-color: #40B2B1;
-}
-
-button.button-primary.hero-button:hover {
-    background-color: #174A7F;
-    border-color: #174A7F;
-} */
-
 .hero-button{
   background-color: #40B2B1;
   color: #fff;
