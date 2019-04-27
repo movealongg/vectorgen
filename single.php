@@ -24,7 +24,6 @@
 					}// end if statement
 				?>
 			<!-- BLOG Button -->
-	        <div class="blue-background"> 
 	         <div class="row">
 	            <div class="twelve columns">
 	               <div class="invest-button">
@@ -32,7 +31,6 @@
 	               </div>
 	            </div>
 	         </div>
-	        </div> 
 		</div>
 
 	</div>	
