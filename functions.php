@@ -255,16 +255,6 @@ function blank_widgets_init(){
     'before_title'  => '<h5 class="widget-title">',
     'after_title'   => '</h5>'
   ));
-// BLOG - Single Page Return to Blog
-  register_sidebar( array(
-    'name'          => ('Blog Return Button'),
-    'id'            => 'blog-button',
-    'description'   => 'Widget area for blog button',
-    'before_widget' => '<div class="investment-button">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
 
 // Research - REASEARCH TITLE
 register_sidebar( array(

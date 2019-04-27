@@ -23,14 +23,7 @@
 						<?php } // end while loop
 					}// end if statement
 				?>
-			<!-- BLOG Button -->
-	         <div class="row">
-	            <div class="twelve columns">
-	               <div class="invest-button">
-	                  <?php dynamic_sidebar('blog-button'); ?>
-	               </div>
-	            </div>
-	         </div>
+		
 		</div>
 
 	</div>	
