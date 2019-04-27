@@ -460,6 +460,24 @@ register_sidebar( array(
   'before_title'  => '<h3 class="about-team">',
   'after_title'   => '</h3>'
 ));
+register_sidebar( array(
+  'name'          => ('About Team Text Section 2'),
+  'id'            => 'about-team-text-2',
+  'description'   => 'About Team Text Section',
+  'before_widget' => '<div class="about-team-text">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h5 class="about-team">',
+  'after_title'   =>  '</h5>'
+));
+register_sidebar( array(
+  'name'          => ('About Team Image Section 2'),
+  'id'            => 'about-team-image-2',
+  'description'   => 'About Team Image Section',
+  'before_widget' => '<div class="about-team-image">',
+  'after_widget'  => '</div>',
+  'before_title'  => '<h3 class="about-team">',
+  'after_title'   => '</h3>'
+));
 
 // 404 WIDGET
 
