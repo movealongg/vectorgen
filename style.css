@@ -230,6 +230,10 @@ button.button-primary.hero-button:hover {
   padding: 8px 20px;
 }
 
+.hero-button{
+  text-decoration: none;
+}
+
 .home-image img{
   display: flex;
   object-fit: cover;
